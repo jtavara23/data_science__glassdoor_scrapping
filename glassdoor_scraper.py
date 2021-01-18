@@ -25,13 +25,14 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     driver = webdriver.Chrome(executable_path=path, options=options)
     driver.set_window_size(1120, 1000)
     
-    #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=189&jobType="
-    url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=54&jobType="
+    #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=189&jobType="PE
+    #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=54&locName=Colombia"
+    #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=15&locName=Argentina"
+    #url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=36&locName=Brazil"
+    url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=N&locId=49&locName=Chile"
     driver.get(url)
     jobs = []
-
     while len(jobs) < num_jobs:  #If true, should be still looking for new jobs.
-
         #Let the page load. Change this number based on your internet speed.
         #Or, wait until the webpage is loaded, instead of hardcoding it.
         time.sleep(slp_time)
@@ -70,11 +71,13 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     job_title = driver.find_element_by_xpath('.//div[contains(@class, "css-1vg6q84 e1tk4kwz4")]').text
                     job_description = driver.find_element_by_xpath('.//div[@class="jobDescriptionContent desc"]').text
                     collected_successfully = True
+                    time.sleep(3)
                 except:
                     print('no encontro')
-                    time.sleep(2)
+                    time.sleep(3)
 
             try:
+                time.sleep(3)
                 salary_estimate = driver.find_element_by_xpath('.//span[@class="css-56kyx5 css-16kxj2j e1wijj242"]').text
             except NoSuchElementException:
                 salary_estimate = -1 #You need to set a "not found value. It's important."
@@ -97,6 +100,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             #clicking on this:
             #<div class="tab" data-tab-type="overview"><span>Company</span></div>
             try:
+                time.sleep(3)
                 driver.find_element_by_xpath('.//div[@class="tab" and @data-tab-type="overview"]').click()
 
                 try:
@@ -184,9 +188,9 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
             
         #Clicking on the "next page" button
         try:
+            time.sleep(3)
             driver.find_element_by_xpath('.//li[@class="next"]//a').click()
         except NoSuchElementException:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
             break
-
-    return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
+        return jobs

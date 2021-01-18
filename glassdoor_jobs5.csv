@@ -1,0 +1,1344 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Data Engineering Analyst Senior,-1,"Job Description: In this role,
+you’ll be working in a data engineering team belonging to Analytics Center of
+Excellence (ACOE) and working on Experian Ascend Platform. You’ll be managing
+data at scale and working on key initiatives such as Data Productizations where
+we employ different big data technologies and back/front ends to build solutions
+for our clients. Additional responsibilities include:
+Designing,
+building and launching data pipelines in our Dedicated Sandbox environment
+Partner
+with technical/product management/infrastructure teams to build shared goals
+Build
+relationships with Data Engineers, Data Scientists, Product Managers and
+Non-technical people to understand and satisfy data needs
+Assist
+and provide technical support to ACOE team and Decision Analytics organization
+Meet
+SLA’s for internal user support
+Manage
+the delivery of data, reports and or data visualizations
+Provide support on productization of
+Analytics and new solutions developed and brought from the ACOE team
+Help
+on developing talent inside and outside your team regarding the use of Big data
+technologies
+Desired skills and experience:
+Previous
+experience in a high-performing, large-scale technology company
+Experience
+in teams that work on large scale data infrastructure in an Agile environment
+Experience
+in data warehouse technologies, data modeling and ETL development
+Minimal
+tech requirements: Programming languages such as Python, SQL, R, Scala, SAS; Big
+data technologies such as Hadoop, Hive, Spark; Visualization tools such as
+Tableau, Dash; Cloud experience (AWS preferred)
+Bachelor’s
+degree in Engineering, Computer Science, or related field",4.1,"Experian
+4.1",Santiago,-1,10000+ Employees,1980,Company - Public,Financial Analytics & Research,Finance,$2 to $5 billion (USD),-1
+Data Engineer,-1,"Cornershop es un servicio que te lleva el súper y distintas tiendas de especialidad, a tu casa o donde quieras, en una hora. Somos una de las Startups con mayor crecimiento en Latinoamérica: estamos en Chile, México, Perú, Colombia, Canadá, Brasil, Estados Unidos y Costa Rica.
+
+Parte de nuestra misión es crear un servicio simple e intuitivo, que logre ser lo más automatizado posible y que, por lo mismo, logre escalar de forma orgánica. Los problemas los resolvemos a través de Software y nuestros equipos trabajan, piensan y hablan con y desde la tecnología.
+
+En Cornershop nos estamos enfrentando a nuevos problemas relacionados al almacenamiento, procesamiento y utilización de grandes volúmenes de datos. El Data Engineer trabajará en el análisis, diseño e implementación de soluciones de Big Data junto a diferentes equipos para escalar múltiples aspectos de la organización. Estas soluciones requieren incluir diversas tecnologías y arquitecturas para filtrar, transformar y almacenar los datos de forma que ingenieros, data scientists y business intelligence analysts puedan utilizarlos sin importar la escala de estos.
+¿Qué esperamos de ti?
+Que te sientas cómodo planificando y ejecutando proyectos de ingeniería de software.
+Que tengas proficiencia en el lenguaje de programación Python.
+Que estés familiarizado con tecnologías Cloud (ocupamos AWS y Google Cloud).
+Que tengas experiencia con bases de datos relacionales y no relacionales.
+Que tengas experiencia en carga de datos utilizando procesos Batch y de Streaming.
+Que tengas experiencia con tecnologías asociadas a soluciones de Big Data (Hadoop, Spark, Cassandra, HBase, Hive, Samza, Faust, Kafka, etc).
+Te amaríamos más si
+Tienes experiencia en la creación de Data Lakes y Data Warehouses.
+Tienes experiencia en proyectos usando Java o Scala.
+Que trabajes de forma proactiva, responsable y creativa
+Abrazas la diversidad, la interculturalidad y seas tolerante
+Te guste aprender constantemente no sólo sobre tu trabajo: que tengas un hobbie, te guste hacer cosas y seas un aporte positivo al equipo
+¿Cómo serán tus primeros días?
+Con la pandemia no solo hemos tenido que adaptarnos a la mascarilla, sino también a nuevos procesos internos. Últimamente nuestro crecimiento se ha acelerado en un 300% y trabajamos día a día para seguirle el ritmo, sin dejar de entregar la mejor experiencia a nuestros usuarios y a ti, que vienes a trabajar con nosotros.
+
+Por ahora nuestros Onboarding y día a día son 100% remoto, para proteger la salud de todes (lo que no quiere decir que trabajaremos así para siempre, pero sí hasta que todas y todos puedan sentirse seguros al momento de salir y enfrentar las calles y aglomeraciones).
+
+¿Cómo vamos a proceder?
+- Recibirás tu contrato por email y podrás firmarlo digitalmente para que no tengas que salir.
+- Recibirás en la puerta de tu casa tu computador y herramientas de trabajo que necesites.
+- Tendrás una inducción con los distintos equipos con los que trabajarás.
+- Serás invitado a una QA party (ya te explicaremos qué es eso) para participar en las mejoras de nuestro servicio.
+- Para que no te sientas como el meme del perrito en el computador que dice ""I have no idea what I'm doing"", la primera semana agendaremos tu Onboarding (todo remoto por supuesto, así que puedes estar en pijama y nadie lo va a notar).
+
+Nuestros beneficios:
+Porque no todo es trabajo duro, también tenemos beneficios para que tus días en la oficina sean más amigables.
+- Horarios flexibles, real
+- Vacaciones adicionales
+- Suscripción a Cornershop Pop para tus compras
+- Seguro complementario de salud, vida y dental
+- Actividades deportivas semanales
+- Formación técnica: suscripción a plataforma con cursos, libros, certificaciones, etc
+- Tech Talks informativas y formativas
+- Y lo mejor de todo, trabajar y aprender con un equipo fuera de serie
+
+Si quieres ser parte de un equipo profesional, respetuoso y diverso, donde te aseguramos que aprenderás mucho desarrollando esta software company, postula y las personas que escribieron esto se pondrán en contacto contigo.
+
+Si quedaste con ganas de saber más de nosotros, puedes encontrar más detalles aquí:
+https://medium.com/getonbrd/awesomecompanies-episodio-6-cornershop-8851c728d3e0
+http://www.laclase.cl/",4.2,"Cornershop
+4.2",Santiago,-1,501 to 1000 Employees,2015,Company - Private,Food & Beverage Stores,Retail,Unknown / Non-Applicable,-1
+Senior Data Engineer,-1,"Digital
+Senior Data Engineer - QuantumBlack
+
+Bogota
+Santiago
+
+Apply Now
+
+Qualifications
+
+Degree educated in Computer Science, Engineering, Mathematics, or equivalent experience
+Previous commercial experience in a data-driven role
+Ability to write clean, maintainable, and robust code in Python, Scala, Java or similar languages
+Knowledge of software engineering concepts and best practices
+Familiarity with the latest OSS, cloud, container, query languages and database technologies
+Confirmed experience building data pipelines in production and ability to work across structured, semi-structured and unstructured data
+Experience preparing data for analytics and following a data science workflow
+Commercial client-facing or senior stakeholder management experience
+Strong command of English language (both verbal and written
+Availability to travel
+
+Who You'll Work With
+
+
+You will be part of a Global Data Engineering community and you will work in cross-functional and Agile project teams alongside Project Managers, Data Scientists, other Data Engineers, Machine Learning Engineers and industry experts.
+
+You will work hands in hands with our clients, from data owners and users to C-level executives
+
+Who you are: You are a highly collaborative individual and enjoy solving problems that focus on adding business value. You have a sense of ownership and enjoy hands-on technical work. Our values resonate with yours.
+
+What You'll Do
+
+You will partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions
+
+You will be flexible to travel to our clients’ offices to deliver presentations, gather information or share knowledge
+
+You will contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and client
+
+You will design and build data pipelines to support data science projects, following software engineering best practices
+
+You will use state of the art technologies to acquire, ingest, and transform big datasets
+
+You will own and have accountability for the delivery of technical work streams
+
+You will mentor and guide more junior colleagues
+
+You will map data fields to hypotheses and curate, wrangle, and prepare data for use in advanced analytics models
+
+You will ensure information security standards are maintained at all time
+
+You will create and manage data environments in the Cloud or on premise
+
+You will have the opportunity to contribute to R&D projects and internal asset development
+OUR TECH STACK
+
+While we advocate for using the right tech for the right task, we often leverage the following technologies: Python, PySpark, SQL, Airflow, Databricks, our own OSS called Kedro, container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP or Azure and more!
+
+
+
+WHAT YOU’LL BENEFIT FROM
+
+Real-World Impact – No project is ever the same, we work with top-tier clients across multiple sectors, providing unique learning and development opportunities internationally.
+
+Fusing Tech & Leadership – We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+
+Multidisciplinary Teamwork - Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+
+Innovative Work Culture – Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+
+Striving for Diversity – With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+
+Continuous development and progression – We offer an extensive choice of training sessions, ranging from workshops to international conference, tailored to your needs as well as a personal mentorship system. We have multiple career paths and geographic locations to evolve within the Firm.
+
+Global community – you'll learn from colleagues around the world by connecting both internally and externally through our various hosted meet-ups.
+
+Visit our Careers site to watch our video and read about our interview processes and benefits.
+
+Industries
+Telecommunications
+Financial Services
+High Tech
+
+
++ 2 More
+
+Functions
+Technology
+
+Apply Now
+FOR U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity/Affirmative Action employer.
+All qualified applicants will receive consideration for employment without regard to sex, gender
+identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran
+status, age, or any other characteristic protected by applicable law.
+
+FOR NON-U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity employer. For additional details
+regarding our global EEO policy and diversity initiatives, please visit our
+McKinsey Careers and
+Diversity & Inclusion sites.",4.4,"QuantumBlack
+4.4",Santiago,-1,501 to 1000 Employees,2009,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+Senior Data Engineer,-1,"Digital
+Senior Data Engineer - QuantumBlack
+
+Bogota
+Santiago
+
+Apply Now
+
+Qualifications
+
+Degree educated in Computer Science, Engineering, Mathematics, or equivalent experience
+Previous commercial experience in a data-driven role
+Ability to write clean, maintainable, and robust code in Python, Scala, Java or similar languages
+Knowledge of software engineering concepts and best practices
+Familiarity with the latest OSS, cloud, container, query languages and database technologies
+Confirmed experience building data pipelines in production and ability to work across structured, semi-structured and unstructured data
+Experience preparing data for analytics and following a data science workflow
+Commercial client-facing or senior stakeholder management experience
+Strong command of English language (both verbal and written
+Availability to travel
+
+Who You'll Work With
+
+
+You will be part of a Global Data Engineering community and you will work in cross-functional and Agile project teams alongside Project Managers, Data Scientists, other Data Engineers, Machine Learning Engineers and industry experts.
+
+You will work hands in hands with our clients, from data owners and users to C-level executives
+
+Who you are: You are a highly collaborative individual and enjoy solving problems that focus on adding business value. You have a sense of ownership and enjoy hands-on technical work. Our values resonate with yours.
+
+What You'll Do
+
+You will partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions
+
+You will be flexible to travel to our clients’ offices to deliver presentations, gather information or share knowledge
+
+You will contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and client
+
+You will design and build data pipelines to support data science projects, following software engineering best practices
+
+You will use state of the art technologies to acquire, ingest, and transform big datasets
+
+You will own and have accountability for the delivery of technical work streams
+
+You will mentor and guide more junior colleagues
+
+You will map data fields to hypotheses and curate, wrangle, and prepare data for use in advanced analytics models
+
+You will ensure information security standards are maintained at all time
+
+You will create and manage data environments in the Cloud or on premise
+
+You will have the opportunity to contribute to R&D projects and internal asset development
+OUR TECH STACK
+
+While we advocate for using the right tech for the right task, we often leverage the following technologies: Python, PySpark, SQL, Airflow, Databricks, our own OSS called Kedro, container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP or Azure and more!
+
+
+
+WHAT YOU’LL BENEFIT FROM
+
+Real-World Impact – No project is ever the same, we work with top-tier clients across multiple sectors, providing unique learning and development opportunities internationally.
+
+Fusing Tech & Leadership – We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+
+Multidisciplinary Teamwork - Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+
+Innovative Work Culture – Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+
+Striving for Diversity – With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+
+Continuous development and progression – We offer an extensive choice of training sessions, ranging from workshops to international conference, tailored to your needs as well as a personal mentorship system. We have multiple career paths and geographic locations to evolve within the Firm.
+
+Global community – you'll learn from colleagues around the world by connecting both internally and externally through our various hosted meet-ups.
+
+Visit our Careers site to watch our video and read about our interview processes and benefits.
+
+Industries
+Telecommunications
+Financial Services
+High Tech
+
+
++ 2 More
+
+Functions
+Technology
+
+Apply Now
+FOR U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity/Affirmative Action employer.
+All qualified applicants will receive consideration for employment without regard to sex, gender
+identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran
+status, age, or any other characteristic protected by applicable law.
+
+FOR NON-U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity employer. For additional details
+regarding our global EEO policy and diversity initiatives, please visit our
+McKinsey Careers and
+Diversity & Inclusion sites.",3.0,"QuantumBlack
+4.4",Santiago,-1,51 to 200 Employees,2004,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1
+"R&D Engineer, I",-1,"Business Title
+R&D Engineer, I
+
+23-Nov-2020
+
+Requisition Number
+27700BR
+
+Job Description and Requirements
+Responsible for designing, developing, troubleshooting, or debugging software programs. Develops software tools including operating systems, compilers, routers, networks, utilities, databases and internet-related tools, etc. Determines hardware compatibility and/or influences hardware design.
+
+Experience in programming software for operating systems, utilizing machine assembly and/or job control languages, and some knowledge of software capabilities. Designs algorithms and data structures. Experience on development of complex software projects, familiarity with C/C++ coding, and a strong background in data structures and algorithms. Has strong desires to learn and explore new technologies and demonstrates good analysis and problem-solving skills. Prior knowledge and experience of CAD tool development are required.
+
+Typically requires no previous professional experience. Knowledge base generally acquired from a college degree or equivalent course training. Applies company policies and procedures to resolve routine issues. Follows standard practices and specific, outlined, and detailed procedures in analyzing situations or data from which answers can be readily obtained. Builds routine working relationships internally. Contacts are primarily with direct manager and other peers in the group or department.
+
+Hiring Location
+CHILE - Chile, CHILE - Santiago
+
+Hire Type
+Employee
+
+Job Category
+Engineering
+
+Country
+Chile",4.1,"Synopsys
+4.1",Chile,-1,10000+ Employees,1986,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1
+Data Engineer Seeds,-1,"Syngenta Group is one of the world’s leading agriculture innovation companies, with roots going back more than 250 years. Its 48,000 people across more than 100 countries strive to transform agriculture
+through breakthrough products and technologies that play a vital role in enabling the food chain to feed the world safely, sustainably and with respect for our planet. Swiss headquartered and Chinese-owned,
+the Group draws strength from its four business units – Syngenta Crop Protection headquartered in Switzerland, Syngenta Seeds headquartered in the United States, ADAMA headquartered in Israel, and Syngenta Group China – that provide industry-leading ways to serve customers everywhere.
+
+Location: Arica, Chile
+
+Make a difference:
+You will be part of R&D team and will support Global Continuous Nurseries
+Through the values Passion for customer, How Matters & Determined Execution you will live and experience more of us
+Here is how this role will be critical to our business:
+The Data Engineer will execute integration the various crops demands and will deliver Data & Analytics models including products and services (like Data Marts /MIO’s, dashboards, analytics and data pipelines).
+Resulting into the optimized nursery design recommendation to achieve targets in each crop or program at the site including but not limited to:
+Data collection, execution considering but not limited to; Lab Obs and controlled environments, Agronomy , crops (DH, TI, Nursery Sunflower, Peas and beans), operational cost (fix and variable)
+Coordinate effectively with crop planners to recommend necessary adjustments to achieve targets in each program considering capacity vs demand.
+Execute site wide data fluency projects
+Focal point to operate using Agile methodology and expert within IT (SmartMart, Data Science, API’s and front-end solutions) to select the right fit for purpose and scalable solutions to increase efficiency, drive new revenues, gain strategic advantage for delivery and support business teams in making more informed and faster decisions.
+
+At Syngenta Group we are highly people focused – we look for professionals who are engaged, collaborative and excellent in execution. Leaders are expected to communicate effectively, develop teams and lead by example. Our industry and our function are changing rapidly so we are looking for new team members with a strong desire to develop themselves.
+
+Essential for this position:
+• Bachelor’s or Master’s degree in informatics, industrial processes, data modeling or computer science, or related D&A fields with 1-3 years of relevant experience.
+• English intermediate/advance
+• Experience in Cloud based ELT, Big Data tools, infrastructure, analytics and visualization
+• Experience running Scrum/Agile development practice (ideally as product owner or scrum master).
+• Proven track record in successful managing D&A and/or IT data delivery teams.
+• Ability to manage supplier resources and handle escalations as needed;Experience in working in teams in an agile matrix organization
+
+Be part of the Syngenta Group Experience
+• Competitive salary and attractive benefits
+• Dynamic and international environment
+• Modern office environment and collaboration tools
+• Forward thinking policies (e.g. remote working, career breaks)
+• Support personal development in a diverse and inclusive environment
+
+Important
+Beyond just believing in the power of diversity, Syngenta Group promotes an inclusive culture that includes differences in all its forms. We believe that the feeling of belonging allows people to become their best version, building an increasingly welcoming and productive environment.
+All qualified candidates will be considered for our positions, without distinction of race, gender, age, nationality or disability.
+
+
+Be part of a leading company that brings plant potential to life",4.1,"Syngenta
+4.1",Chile,-1,10000+ Employees,2000,Company - Private,Food Production,Agriculture & Forestry,$10 to $25 million (USD),-1
+Data Engineer Seeds,-1,"Syngenta Group is one of the world’s leading agriculture innovation companies, with roots going back more than 250 years. Its 48,000 people across more than 100 countries strive to transform agriculture
+through breakthrough products and technologies that play a vital role in enabling the food chain to feed the world safely, sustainably and with respect for our planet. Swiss headquartered and Chinese-owned,
+the Group draws strength from its four business units – Syngenta Crop Protection headquartered in Switzerland, Syngenta Seeds headquartered in the United States, ADAMA headquartered in Israel, and Syngenta Group China – that provide industry-leading ways to serve customers everywhere.
+
+Location: Arica, Chile
+
+Make a difference:
+You will be part of R&D team and will support Global Continuous Nurseries
+Through the values Passion for customer, How Matters & Determined Execution you will live and experience more of us
+Here is how this role will be critical to our business:
+The Data Engineer will execute integration the various crops demands and will deliver Data & Analytics models including products and services (like Data Marts /MIO’s, dashboards, analytics and data pipelines).
+Resulting into the optimized nursery design recommendation to achieve targets in each crop or program at the site including but not limited to:
+Data collection, execution considering but not limited to; Lab Obs and controlled environments, Agronomy , crops (DH, TI, Nursery Sunflower, Peas and beans), operational cost (fix and variable)
+Coordinate effectively with crop planners to recommend necessary adjustments to achieve targets in each program considering capacity vs demand.
+Execute site wide data fluency projects
+Focal point to operate using Agile methodology and expert within IT (SmartMart, Data Science, API’s and front-end solutions) to select the right fit for purpose and scalable solutions to increase efficiency, drive new revenues, gain strategic advantage for delivery and support business teams in making more informed and faster decisions.
+
+At Syngenta Group we are highly people focused – we look for professionals who are engaged, collaborative and excellent in execution. Leaders are expected to communicate effectively, develop teams and lead by example. Our industry and our function are changing rapidly so we are looking for new team members with a strong desire to develop themselves.
+
+Essential for this position:
+• Bachelor’s or Master’s degree in informatics, industrial processes, data modeling or computer science, or related D&A fields with 1-3 years of relevant experience.
+• English intermediate/advance
+• Experience in Cloud based ELT, Big Data tools, infrastructure, analytics and visualization
+• Experience running Scrum/Agile development practice (ideally as product owner or scrum master).
+• Proven track record in successful managing D&A and/or IT data delivery teams.
+• Ability to manage supplier resources and handle escalations as needed;Experience in working in teams in an agile matrix organization
+
+Be part of the Syngenta Group Experience
+• Competitive salary and attractive benefits
+• Dynamic and international environment
+• Modern office environment and collaboration tools
+• Forward thinking policies (e.g. remote working, career breaks)
+• Support personal development in a diverse and inclusive environment
+
+Important
+Beyond just believing in the power of diversity, Syngenta Group promotes an inclusive culture that includes differences in all its forms. We believe that the feeling of belonging allows people to become their best version, building an increasingly welcoming and productive environment.
+All qualified candidates will be considered for our positions, without distinction of race, gender, age, nationality or disability.
+
+
+Be part of a leading company that brings plant potential to life",3.3,"Syngenta
+4.1",Chile,-1,1001 to 5000 Employees,2009,Company - Private,Real Estate,Real Estate,$100 to $500 million (USD),-1
+Data Engineer (English),-1,"En Nisum Latam nos encantan los desafíos. Nos apasiona la tecnología y los negocios; dedicamos nuestro tiempo a innovar, crear y entregar los mejores proyectos para nuestros clientes, llevándolos a los más altos niveles de calidad, y es por eso que con nuestra marca prometemos construir éxito juntos. (Building Success Together ®)
+
+En esta posición ayudará a los clientes al proporcionar las mejores prácticas sobre implementaciones de nube básicas seguras, aprovisionamiento automatizado de infraestructura y aplicaciones, arquitecturas de aplicaciones listas para la nube y más.
+EXPERIENCIA REQUERIDA
+Amplia experiencia en desarrollo en Java, Springboot, REST, Arquitectura de Microservicios, XAPI.
+Experiencia en transmisión / procesamiento de datos a través de Kafka y/o Spark.
+Experiencia en MongoDB o CosmosDB sin SQL.
+Habilidades / experiencia en la creación de aplicaciones en la nube, en Microsoft Azure, AWS o GCP.
+Experiencia en herramientas / procesos de CI/CD en Public Cloud.
+Inglés avanzado oral y escrito. (Excluyente)
+ROL Y RESPONSABILIDADES
+Diseñar, crear y dirigir el desarrollo de aplicaciones nativas en la nube.
+Servicios de plataforma, tecnologías de transmisión de eventos y varios marcos de código abierto.
+Creación de plataformas y soluciones nativas en la nube resistentes, de alta disponibilidad y escalables.
+NIVEL EDUCACIONAL REQUERIDO
+Licenciatura en Ciencias de la Computación, Ingeniería Informática o afín.
+Si cuentas con estas características y te interesa ser parte de una empresa multinacional, no dudes en postular.",3.3,"Nisum
+3.3",Santiago,-1,501 to 1000 Employees,2000,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+CONSULTING ENGINEER,-1,"What You'll Do
+
+We need a Lead Consulting Engineer to support key Enterprise customers in LATAM region. You will require strong consulting and interpersonal skills coupled with deep technology skills in Cisco Routing and Switching and DC platforms. You will possess a proven track record of successful planning, design, implementation and operational experience. You will ensure that “Delivery Excellence” is provided in every aspect of you work efforts and relationships with the client.
+
+Who You'll Work With
+
+When you work with us, you’ll be part of a highly empowered collaborative team who's passionate about the successful delivery of the Business Critical Services portfolio across LATAM customers
+
+Who You Area
+
+We expect you to have at least 5 years of client facing experience articulating Next Generation Cisco Enterprise RS and DC technology value proposition, innovation, and adoption. Strong executive presence, communication and presentation skills are required. Ability to communicate verbally, written, and cross-functionally with client and cisco is a must.
+
+About technology skills, we expect you to have at least 5 years of experience designing, implementing, and operating the following platforms and technologies:
+
+ACI
+
+SDWAN
+
+SDAccess
+
+Nexus
+
+ASR9000
+
+CRS
+
+NCS6K
+
+IOS-XR
+
+Multicast
+
+QoS
+
+MPLS
+
+OSPF/IS-IS
+
+BGP
+
+Familiarity with programming using Python / Java, Shell scripting.
+
+Our desired skills include:
+
+Requires BS/BE/B.Tech degree or equivalent plus 5+ years of related experience in IT industry
+
+Certifications Preferred – CCIE ( Preferred ), CCIP, CCNA, CCNP ( Plus ), DevNet
+
+Passionate, persuasive, charismatic thought leader capable of quickly establishing executive interest in Cisco services by articulating the value and business advantage of Cisco’s network migration services.
+
+A self-driven individual with the curiosity to learn, work in a fast paced changing environment, evolve continuously to keep pace with the Cisco’s solutions, technologies and industry trends, be an inspiration and trend setters for others.
+
+High-level, out-of-the-box thinking, analytical reasoning, and creative problem solving skills with the ability to convert thoughts to real and pragmatic execution
+
+Why Cisco
+
+At Cisco, each person brings their unique talents to work as a team and make a difference.
+
+Yes, our technology changes the way the world works, lives, plays and learns, but our edge comes from our people.
+
+We connect everything – people, process, data and things – and we use those connections to change our world for the better.
+
+We innovate everywhere - From launching a new era of networking that adapts, learns and protects, to building Cisco Services that accelerate businesses and business results. Our technology powers entertainment, retail, healthcare, education and more – from Smart Cities to your everyday devices.
+
+We benefit everyone - We do all of this while striving for a culture that empowers every person to be the difference, at work and in our communities.
+
+Colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Be you, with us! #WeAreCisco",4.2,"Cisco Systems
+4.2",Santiago,-1,10000+ Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Senior Software Engineer,-1,"Checkr's mission is to build a fairer future by improving the understanding of the past. Since graduating Y-Combinator in 2014, Checkr's product has shifted the on-demand economy and has continued to scale into serving enterprise companies across various industries. As a company that provides modern and compliant background checks for global enterprises and startups, Checkr knows first hand how difficult it may be for individuals with prior criminal history to find employment and we want to help provide fair chances for the formerly convicted. A career with Checkr provides the opportunity to make an impact on the professional lives of millions of people and we encourage all qualified individuals to apply for our roles.
+
+Checkr is looking for a Senior Software Engineer to help accelerate growth through business model enablement and pricing innovation. This team builds services that enable Checkr to develop new products that monetize in new and innovative ways, invoice customers, process payments, forecast revenue, and provide customers with financial insights. We're looking for a passionate engineer who takes pride in driving new features from inception through release and is excited about tackling complex problems.
+
+What a typical week may look like at Checkr:
+Define, architect, and implement the critical financial infrastructure that powers Checkr's business
+Monitor, investigate, triage, and resolve production issues as they arise for services owned by the team
+Collaborate with Product, Sales, Customer Success, and Finance to design new product ideas
+Solve challenging and complex engineering and business problems
+What we value in a Senior Software Engineer:
+5+ years experience as a software engineer
+A strong communicator who can quickly pickup new concepts and domains
+A skilled problem solver well-versed in considering and making technical tradeoffs
+Experience building and delivering critical enterprise level solutions
+Strong Proficiency in Ruby
+Experience developing platforms built using an asynchronous event-based architecture
+English Speaking Proficiency
+Brownie Points:
+Experience integrating with enterprise applications
+Experience creating, maintaining, and operating microservices
+Experience in billing, payments, back office systems, or related fields
+What you get:
+A fast-paced and collaborative environment where we leverage the latest technology
+Hands-on coaching and professional development
+Remote Working Policy
+Competitive compensation and opportunity for advancement
+Unlimited Vacation Policy
+Equal Employment Opportunities at Checkr
+
+Checkr is committed to hiring talented and qualified individuals with diverse backgrounds for all of its tech, non-tech, and leadership roles. Checkr believes that the gathering and celebration of unique backgrounds, qualities, and cultures enriches the workplace.",3.7,"Cisco Systems
+4.2",Santiago,-1,201 to 500 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+"R&D Engineer, Sr I",-1,"Business Title
+R&D Engineer, Sr I
+
+18-Dec-2020
+
+Requisition Number
+27969BR
+
+Job Description and Requirements
+Responsible for designing, developing, troubleshooting, or debugging software programs. Develops software tools including operating systems, compilers, routers, networks, utilities, databases and internet-related tools, etc. Determines hardware compatibility and/or influences hardware design.
+
+Experience in programming software for operating systems, utilizing machine assembly and/or job control languages, and some knowledge of software capabilities. Designs algorithms and data structures. Experience on development of complex software projects, familiarity with C/C++ coding, and a strong background in data structures and algorithms. Has strong desires to learn and explore new technologies and demonstrates good analysis and problem-solving skills. Prior knowledge and experience of CAD tool development are required.
+
+Typically requires a minimum of 5 years of related experience. Possesses a solid understanding of specialization area plus working knowledge of one other related area. Resolves issues in creative ways. Exercises independent judgment in selecting methods and techniques to obtain solutions. Executes projects from start to completion. Contributes to moderately complex aspects of a project. Determines and develops recommendations to solutions. Works on team-driven or task-oriented projects. May guide more junior peers with aspects of their job. Networks with senior internal and external personnel in own area of expertise.
+
+Hiring Location
+CHILE - Chile, CHILE - Santiago
+
+Hire Type
+Employee
+
+Job Category
+Engineering
+
+Country
+Chile",4.1,"Synopsys
+4.1",Chile,-1,10000+ Employees,1986,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1
+Data Engineer (español),-1,"En esta función, trabajará como ingeniero de Google Cloud. Ayudando a los clientes al proporcionar las mejores prácticas sobre implementaciones de nube básicas seguras, aprovisionamiento automatizado de infraestructura y aplicaciones, arquitecturas de aplicaciones listas para la nube y más. Se asegurará de que los clientes reciban lo mejor de lo que Google Cloud puede ofrecer, y se asegurará de que los clientes tengan la mejor experiencia al migrar, crear, modernizar y mantener aplicaciones en Google Cloud.
+Habilidades requeridas
+Licenciatura en Informática o experiencia similar.
+Experiencia en la escritura de software en uno o más idiomas (por ejemplo, Java, Python, etc.).
+Años de diseño y desarrollo de aplicaciones en un entorno de nube
+Experiencia desarrollando aplicaciones usando contenedores, Kubernetes, service mesh (Istio, Solo)
+preferiblemente en GCP.
+Experiencia en Big Data / analítica / análisis de información / gestión de bases de datos en la nube
+Experiencia práctica con los servicios de GCP mediante GCP Console o Deployment Manager.
+Competente en BigQuery, Dataprep y Dataflow.
+Experiencia en cualquiera de las plataformas de transmisión de eventos (Kafka, Google Pub / Sub, etc.)
+Inglés hablado y escrito, nivel medio. (No excluyente)
+Responsabilidades
+Diseñar, crear y dirigir el desarrollo de aplicaciones nativas en la nube utilizando Google Cloud
+Servicios de plataforma, tecnologías de transmisión de eventos y varios marcos de código abierto
+Creación de plataformas y soluciones nativas en la nube resistentes, de alta disponibilidad y escalables.
+Experiencia tangible considerable con infraestructura de nube, datos y servicios de aplicaciones.
+Práctica con la contenerización (Docker) y la orquestación (K8s, Rancher)
+Conocimiento de nivel experto y experiencia práctica con Cloud Scripting and Automation
+Amplio conocimiento de los servicios de infraestructura de GCP: GCE, GSC, KSM, VPC, Cloud Load Balancing, GKE, Stackdriver, etc.
+Conocimientos de NoSQL y SQL: Datastore, Cloud Spanner, BigQuery, BigTable, MongoDB, Cloud SQL (PostgreSQL y MySQL), Oracle, MSSQL
+Experiencia en la implementación de aplicaciones con Google App Engine
+Debe comprender las metodologías Agile / SCRUM",3.3,"Nisum
+3.3",Santiago,-1,501 to 1000 Employees,2000,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Lead Data Scientist,-1,"Why Vacasa
+
+We started with just one home and an idea: to bring homeowners and renters together with smart technology and caring local teams. Today, we're the largest full-service vacation rental company in the US—thanks to the people who give us their best every day. You'll fit right in here if you're curious, entrepreneurial, and thrive in a rapid-growth environment.
+
+Why Product at Vacasa
+
+Our motto is to move fast and dream big. Vacasa is well-resourced and we're going places. Our culture is laid-back but our turnarounds are tight, so we switch gears quickly. You'll innovate and iterate, and your work will make an impact.
+
+What we are looking for
+
+As a machine learning lead at Vacasa, you will provide day-to-day technical leadership and direction to a small team of hard-charging data scientists, machine learning engineers, and analysts. In addition to tackling your own projects, you'll advise the team on the best modeling techniques to apply, do ""notebook"" and/or code reviews, and set the overall technical direction of our group. This is a great role for a strong individual contributor looking to make a jump to a tech lead position, or a current team lead looking to make the jump to an exciting hyper-growth pre-IPO environment.
+
+What You'll Do
+
+Vacasa is at the sweet spot for machine learning and AI in that we have 1) lots of data (from our 25,000 homes as well as our channel partners and our own guest app and website), 2) problems that require smart software algorithms (pricing 25,000 homes, sending email recommendations to 1 million guests, etc.), and the 3) growth that demands we invest in methods to use 1 to solve 2, and do it quickly.
+
+You'll use your knowledge of data science and machine learning algorithms to help our nimble team solve problems like how we build models to dynamically charge the right price for each of our 25,000 units for each of 540 days into the future, how we rank our units on our search engine results pages in order to maximize guest conversion rate and revenue, and how we estimate how much a prospective home might be able to make as a Vacasa rental based on its characteristics and location. You'll be in jupyter notebooks of your own creation and your colleague's daily, using libraries like Tensor Flow, scikit-learn, pandas, and plotly to build and test models, write up the results, and present findings to key stakeholders. You'll also mentor more junior team members, helping them grow into top-notch data scientists and machine learning engineers.
+
+Skills you'll need
+Intelligence, humility, candor, and the ability to thrive in a fast-paced and sometimes mildly chaotic startup environment
+You like to get things right and ship things quickly, but you can appropriately balance the inherent conflict between the two
+Art history majors are welcome -- we are strong believers in personal growth and care more about what you have done at work the past three years and what you are capable of doing now than we do about where you went to school or what you studied
+Expert-level SQL - most of our data is in redshift and you should have well-honed skills at accessing it
+Strong python experience
+Expert-level knowledge of data science libraries such as pandas, numpy, tensor-flow / keras or pytorch, scikit-learn, plotly (or equivalent)
+Strong familiarity with a gamut of data science and machine learning approaches, including neural networks, random forest and GBTs, KNNs, k-means clustering, various types of regressions, and bayesian techniques
+Ability to function in a ""big data"" environment including an intermediate to expert knowledge of Spark and distributed training
+Familiarity with AWS ecosystem and tools such as Glue, SageMaker, Athena, and Fargate
+Familiarity with Docker or other container systems
+Full english language professional proficiency (Resumes need to be submitted in English)
+What you'll get
+Career advancement opportunities
+Employee discounts
+All the equipment you'll need to be successful
+Great colleagues and culture",3.3,"Vacasa
+3.3",Santiago,-1,1001 to 5000 Employees,2009,Company - Private,Real Estate,Real Estate,$100 to $500 million (USD),-1
+Apprentice Data Scientist,-1,"Digital
+Apprentice Data Scientist - QuantumBlack
+
+Santiago
+
+Apply Now
+
+Qualifications
+
+Bachelors degree (up to 2 years) in computer science, statistics, physics, applied mathematics, engineering or related fields
+Relevant coding and modelling skills with applied practical experience and programming background is highly desired
+Programming skills in at least 2 of the following language: R, Python, Scala, SQL
+Knowledge of distributed computing or NoSQL technologies is a bonus
+Strong analytical and problem-solving skills paired with the ability to develop creative and efficient solutions
+Ability to work collaboratively in a team environment and effectively with people at all levels in an organization
+Ability to communicate ideas most effectively - both verbally and in writing - in English
+Willingness to travel
+
+Who You'll Work With
+
+You’ll work in our Santiago office as part of our Advanced Analytics Apprenticeship program within our QuantumBlack team.
+As an Apprentice Data Scientist at QuantumBlack, you will work with other Data Scientists, Data Engineers, Machine Learning Engineers, Designers and Project Managers on interdisciplinary projects, using Maths, Stats and Machine Learning to derive structure and knowledge from raw data across various industry sectors.
+You’ll typically work on projects across all industries and will be fully integrated with the rest of our global firm. You’ll work with colleagues from across the firm to help our clients launch agile marketing and personalization programs at scale, enabled by data and technology. You’ll have the opportunity to plug into exciting large scale marketing and digital transformations.
+Our office culture is casual and social, with an emphasis on education and innovation. We have the freedom to try new ideas, experiment and are expected to be constantly learning and growing. There is also a strong emphasis on mentoring others in the group, enabling them to grow and learn.
+
+What You'll Do
+
+
+You will work in multi-disciplinary environments harnessing data to provide real-world impact for organizations globally.
+In this role you will influence many of the recommendations our clients need to positively change their businesses and enhance performance. You will work on complex and extremely varied data sets from some of the world’s largest organizations to solve real world problems. You will develop data science products and solutions by writing highly optimized code to advance our internal Data Science Toolbox for clients, as well as for our data science team.
+You will also work with specialists in machine learning, engineering and design and add real-world impact to your academic expertise. You will be encouraged to write ‘black’ papers and present at meetings and conferences should you wish.
+Please submit your CV in English
+As an equal opportunity employer, QuantumBlack encourages applications from all backgrounds regardless of gender, race, disability, pregnancy, marital status, age, sexual orientation, gender reassignment, religion or belief. We maintain a sense of community rooted in respect and consideration for all employees where any evaluation is based simply upon individual work and team performance.
+
+Industries
+High Tech
+
+Functions
+Technology
+
+Apply Now
+FOR U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity/Affirmative Action employer.
+All qualified applicants will receive consideration for employment without regard to sex, gender
+identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran
+status, age, or any other characteristic protected by applicable law.
+
+FOR NON-U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity employer. For additional details
+regarding our global EEO policy and diversity initiatives, please visit our
+McKinsey Careers and
+Diversity & Inclusion sites.",4.4,"QuantumBlack
+4.4",Santiago,-1,501 to 1000 Employees,2009,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+Data Center Facilities Technician/Engineer,-1,"Please submit your resume in English - we can only consider applications submitted in this language.
+
+Minimum qualifications:
+Associate's degree, trade school certification or other verifiable training in a relevant technical field or equivalent practical experience.
+2 years of experience in a journeyman or technician role.
+2 years of experience in mechanical/HVAC and/or in electrical.
+Preferred qualifications:
+Universal Refrigerant Handler's certification. Ability to obtain licensing if required by the local jurisdiction by start date for this role.
+Knowledge of the electrical mechanical systems used in data center environments, including: feeders, transformers, generators, switchgear, UPS systems, ATS/STS/PDU/PMM/CRAC/air handling units, and chillers.
+Ability to learn quickly and address issues as they arise during normal working hours or when on-call.
+Ability to communicate effectively with contractors.
+Ability to work non-standard work hours as needed including working weekends, holidays and shift-based schedules.
+Ability to speak and write in English fluently.
+About the job
+
+
+The Data Center team designs and operates some of the most sophisticated electrical engineering, mechanical engineering and HVAC systems in the world. Facilities Technicians at Google data centers operate, monitor and support physical facilities conditions. Some of these duties will include heating and cooling of air and water, power supply, generators, UPS systems, electrical distribution and control and monitoring systems. You regularly help inspect, maintain and repair various data center systems such as piping and non-critical electrical or mechanical system components). You provide daily assistance to senior technicians as you read blueprints/schematics, conduct tours of systems and assess their working order.
+
+As a master of of excellent practices, you develop creative approaches to reducing operational costs while improving overall data center efficiency. You ensure that environmental and safety standards are consistently met, identifying problems and making repairs quickly In emergency situations or abnormal conditions, you manage data center performance issues and outages to minimize the recovery time from failures.
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.
+Responsibilities
+Operate, monitor, maintain, and respond to abnormal conditions in facilities systems.
+Track and trend operational characteristics.
+Work non-standard hours, which may include working after-hours, weekends, and holidays.
+Be responsible for the following areas: Electrical, Mechanical, and Building Monitoring and Control.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.",4.5,"Google
+4.5",Santiago,-1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+Senior R&D Engineer,-1,"Business Title
+Senior R&D Engineer
+
+18-Dec-2020
+
+Requisition Number
+28083BR
+
+Job Description and Requirements
+At Synopsys, we’re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we’re powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.
+
+Our Silicon Design & Verification business is all about building high-performance silicon chips—faster. We’re the world’s leading provider of solutions for designing and verifying advanced silicon chips. And we design the next-generation processes and models needed to manufacture those chips. We enable our customers to optimize chips for power, cost, and performance—eliminating months off their project schedules.
+
+We're looking for a Senior R&D Engineer to join the team.
+Does this sound like a good role for you?
+
+Responsible for designing, developing, troubleshooting, or debugging software programs. Develops software tools including operating systems, compilers, routers, networks, utilities, databases and internet-related tools, etc. Determines hardware compatibility and/or influences hardware design.
+
+Key Qualifications
+Designs algorithms and data structures. Has strong desires to learn and explore new technologies and demonstrates good analysis and problem-solving skills.
+Prior knowledge and experience of CAD tool development are required.
+Possesses a solid understanding of specialization area plus working knowledge of one other related area. Resolves issues in creative ways.
+Exercises independent judgment in selecting methods and techniques to obtain solutions. E
+xecutes projects from start to completion.
+Contributes to moderately complex aspects of a project.
+Determines and develops recommendations to solutions.
+Works on team-driven or task-oriented projects.
+May guide more junior peers with aspects of their job.
+Networks with senior internal and external personnel in own area of expertise.
+Preferred Experience
+Experience in programming software for operating systems, utilizing machine assembly and/or job control languages, and some knowledge of software capabilities.
+Experience on development of complex software projects, familiarity with C/C++ coding, and a strong background in data structures and algorithms.
+Typically requires a minimum of 5 years of related experience.
+Inclusion and Diversity are important to us. Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, military veteran status, or disability.
+
+Hiring Location
+CHILE - Chile, CHILE - Santiago
+
+Hire Type
+Employee
+
+Job Category
+Engineering
+
+Country
+Chile",4.1,"Synopsys
+4.1",Santiago,-1,10000+ Employees,1986,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1
+Data Scientist (Aerolinea),-1,"Acid Labs es una fábrica de software web y móvil basada en Chile, pero atendiendo también para Perú y Colombia, aunque con mayores objetivos aún en la mira.
+
+Somos un equipo muy flexible de desarrollador@s y diseñador@s, sin código de vestimenta.
+
+Nuestros valores son: La transparencia, trabajar para generar valor, pasión por la excelencia y trabajo en equipo.
+
+Conocimientos requeridos
+
+El Data Scientist será responsable de resolver problemas de alta complejidad relacionados al análisis de datos mediante el uso de herramientas estadísticas e informáticas, síntesis de estos elementos y extracción de conclusiones basado en los datos. Se requiere una persona curiosa y con una capacidad analítica comprobada en proyectos y en trabajos de desarrollo Agile. Este deberá proporcionar mediante el uso de estas herramientas, la creación de significado y valor sobre los datos presentados.
+
+Criterios tecnicos excluyentes:
+Experiencia con Python o R u otro lenguaje de ciencia de datos.
+Conocimiento y experiencia en técnicas estadísticas para medir modelos que puedan validar lo que están construyendo.
+Conocimientos de nube AWS.
+Conocimientos de Machine learning.
+Conocimientos de powerBI.
+Agilidad
+Plus diferenciador:
+Mongo / SQL
+Jenkins y Github
+Inglés
+Beneficios
+Seguro Complementario de Salud.
+5 días de vacaciones adelantadas a partir del tercer mes.
+Descuento con cafeterías
+Convenio Caja de compensación Los Andes
+Descuento Gimnasio Sportlife
+Bono por hijo nacido y matrimonio
+Aguinaldos de Fiestas Patrias y Navidad
+Powered by JazzHR",3.9,"Acid Labs
+3.9",Chile,-1,51 to 200 Employees,2006,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Principal Software Engineer,-1,"SOUTHWORKS is growing fast and hiring fast. We’re not your average dev firm – so this is a great place to build your anything-but-average dev career.
+
+This is where top developers get the opportunity to:
+
+Be the best – You’ll work on elite three-person Fireteams with other sharp, skilled coders who know how to do top-notch, innovative work in record time.
+
+Grow like crazy – You’ll take the next step in your career and have plenty of opportunities for professional development through weekly feedback sessions.
+
+Take on the challenge – You’ll be tackling new things all the time, have the freedom to self-direct your own work, and get hands-on training with the latest technologies.
+
+Make a difference – You’ll write code for some of the biggest brands in the world, and set a new standard for high-quality, high- profile projects.
+
+SOUTHWORKS aspires to be an organization that reflects the globally diverse audience that we serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas and cultures leads to the creation of better products and services.
+SOUTHWORKS' developers work on high- profile projects for some of the biggest brands in the world and set a new standard for high-quality. We're looking for developers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a developer, you will work on a wide-variety of projects critical to our customers' needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our developers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+As a Principal Software Engineer at SOUTHWORKS, you’ll lead software engineering projects for some of the biggest brands in the world and influence teams that design, develop, test, deploy, maintain, and improve software. You will plan requirements, identify risks, manage schedules, and communicate clearly with project stakeholders. And, you’ll learn and grow alongside talented teammates who share your attention to detail and appetite for problem-solving.
+Responsibilities
+Design, develop, test, deploy, maintain and improve software.
+Manage technology programs, defining milestones and success criteria, resource allocation and successful on-time delivery.
+Exercise technical judgment in working with multiple cross-functional teams.
+Develop tools and processes to improve software engineering productivity.
+Communicate schedules, priorities, and status to all levels in the company.
+Mentor and train other team members on design techniques, and coding standards.
+Minimum qualifications
+BS degree in Computer Science or equivalent practical experience.
+8 year of experience with one or more general purpose programming languages including: Java, C/C++, C#, Objective C, Python, JavaScript or Go.
+Experience working with one or more from the following: Infrastructure, Machine Learning, Mobile Application Development, Embedded Systems, Front End Development, Security and Privacy.
+Experience architecting and developing large scale design.
+Experience in Program Management on technical cross-functional projects.
+Working proficiency and communication skills in verbal and written English.
+Passionate about technology.
+Preferred qualifications
+Experience managing execution and high quality product delivery.
+Ability to exercise technical judgment in solving software engineering challenges.
+Ability to be an influential member of a highly integrated team composed of both technical and non-technical members.
+Interest and ability to learn other coding languages as needed.
+Fast learner who is comfortable figuring things out with new technology.
+Is excited to work with cutting-edge technologies before they are public.
+About us
+SOUTHWORKS is the remote dev firm people turn to for their most complex, high-profile projects. You get great results without the endless hand-holding and do- overs outsourcing is known for. Too often when you bring in outsourced developers for help, you end up having to help them instead – so you spend all your time babysitting the project.
+
+To make everything right, we bring a unique “own it, bring it, prove it” approach to software development. It’s about thinking beyond the reqs, finding the fastest way to the best outcomes, and always keeping you in the know. And it’s why companies such as Microsoft, Amazon, 7-Eleven, Discovery Networks, and even the Olympic Games count on us.
+
+SOUTHWORKS. Make everything right.",4.1,"SOUTHWORKS
+4.1",Chile,-1,201 to 500 Employees,2004,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1
+Data Scientist,-1,"En CleverIT Group desarrollamos software a medida, consultoría DevOps, servicio completo UX, control de calidad automatizado, entre otros servicios; somos habilitadores entre tecnología y personas a través valores como la eficiencia, transparencia y trabajo en equipo, buscando siempre la agilidad.
+
+Sobresalimos manteniendo una cultura organizacional que se apega a las mejoras prácticas de agilidad logrando la transformación cultural que las empresas necesitan para mejorar su valor de negocio.
+
+Somos un equipo joven e innovador y entregamos un espacio para crecer y demostrar el máximo potencial de cada uno a través del trabajo en equipo entre las diferentes áreas.
+
+Nos encontramos buscando un DATA SCIENTIST
+
+Funciones del cargo
+-Depurar y limpiar datos para descartar información irrelevante; utilizando softwares de análisis, machine learning y estadística para preparar los datos para su uso en modelos prescriptivos y predictivos.
+-Investigar y desarrollar las ultimas tendencias tecnológicas y modelos de aprendizaje estadístico para el análisis de datos.
+-Colaborar con los departamentos de gestión de productos e ingeniería para comprender las necesidades de la empresa y encontrar posibles soluciones.
+-Implementar nuevas metodologías estadísticas u otras metodologías matemáticas según sea necesario para modelos o análisis específicos.
+-Optimizar los esfuerzos conjuntos de desarrollo mediante el uso adecuado de la base de datos y el diseño del proyecto.
+
+Requerimientos del cargo
+-Conocimientos de R o Python
+-Experiencia trabajando en ecosistemas Big data
+-Conocimiento estadísticos y Maching learning.
+-Conocimiento de Tensor Flow
+
+
+Beneficios
+Somos un equipo muy flexible sumando cada día mas clever. No tenemos horarios fijos ni códigos de vestimenta y nos encanta la innovación y nuevas ideas.
+Dentro de nuestros beneficios de empresa están:
+Seguro de Salud Complementario.
+Formación y capacitación constante
+Días Nacimiento de hijos.
+Días por matrimonio.
+Bono aguinaldo y navidad",-1,CleveritGroup,Santiago,-1,-1,-1,-1,-1,-1,-1,-1
+Software Engineer,-1,"Microsoft Engineering team is looking for software developers. Are you interested in working on a product that ships new features every week? Would you like to design and develop new components that solve complex distributed systems and search optimization problems? If the answer to these questions is yes, then we would like to hear from you! We write software from the ground-up, running across thousands of servers. We are currently building a new system for searching data in an enterprise. The goal of the system is to efficiently search all entity types such as emails, calendar items, contacts, documents, and so on with latency in milliseconds. To design the new system, we are applying a combination of approaches from the fields of API design, Machine Learning, Distributed Computing, Workflow engines, Algorithm Optimization, and many more. Come to define, design and deliver the next state of enterprise search system.
+
+Responsibilities
+Design and develop search and platform features
+Operate and manage live site for substrate search service
+Collaborate with the team on building a highly scalable and high performance search stack
+Collaborate with customers and partners to understand user requirements and design features to enable rich search experiences
+Qualifications
+
+
+- Demonstrated problem solving and debugging skills.
+
+- 2+ years of experience in distributed systems and agile development environment
+
+- Excellent communications and cross-group collaboration skills which facilitate interactions across
+
+- 3+ years of C++/C#/Java software engineering and product development experience
+
+- A BS in Computer Science or related engineering field. MS degree preferred.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+#M365Core",4.4,"Microsoft
+4.4",Santiago,-1,10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Software Engineer,-1,"Microsoft Engineering team is looking for software developers. Are you interested in working on a product that ships new features every week? Would you like to design and develop new components that solve complex distributed systems and search optimization problems? If the answer to these questions is yes, then we would like to hear from you! We write software from the ground-up, running across thousands of servers. We are currently building a new system for searching data in an enterprise. The goal of the system is to efficiently search all entity types such as emails, calendar items, contacts, documents, and so on with latency in milliseconds. To design the new system, we are applying a combination of approaches from the fields of API design, Machine Learning, Distributed Computing, Workflow engines, Algorithm Optimization, and many more. Come to define, design and deliver the next state of enterprise search system.
+
+Responsibilities
+Design and develop search and platform features
+Operate and manage live site for substrate search service
+Collaborate with the team on building a highly scalable and high performance search stack
+Collaborate with customers and partners to understand user requirements and design features to enable rich search experiences
+Qualifications
+
+
+- Demonstrated problem solving and debugging skills.
+
+- 2+ years of experience in distributed systems and agile development environment
+
+- Excellent communications and cross-group collaboration skills which facilitate interactions across
+
+- 3+ years of C++/C#/Java software engineering and product development experience
+
+- A BS in Computer Science or related engineering field. MS degree preferred.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+#M365Core",4.1,"Microsoft
+4.4",Santiago,-1,10000+ Employees,1986,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1
+Frontend Engineer,-1,"Cornershop es un servicio que te lleva el súper y distintas tiendas de especialidad, a tu casa o donde quieras, en una hora. Somos una de las Startups con mayor crecimiento en Latinoamérica: estamos en Chile, México, Perú, Colombia, Canadá, Brasil, Estados Unidos y Costa Rica.
+
+Parte de nuestra misión es crear un servicio simple e intuitivo, que logre ser lo más automatizado posible y que, por lo mismo, logre escalar de forma orgánica. Los problemas los resolvemos a través de Software y nuestros equipos trabajan, piensan y hablan con y desde la tecnología.
+
+Estamos buscando a nuestros próximos/as Frontend Engineers, que quieran ser parte de distintos proyectos y equipos relacionados a usuarios, porque hay software en todos lados. Deberás colaborar en la definición e implementación de funcionalidades clave en las plataformas web de Cornershop, participar en el diseño y conceptualización de las diferentes APIs que Cornershop posee, colaborar con las diferentes áreas de la empresa para definir requerimientos y diseñar soluciones y resolver problemas en sistemas de producción de forma metódica.
+
+Actualmente, nuestro equipo Tech está compuesto por más de 130 ingenieros e ingenieras, que desarrollan software desde Chile, para todos los países donde estamos operando. Cornershop tiene miles de desafíos de escala para que puedas aplicar creatividad, habilidad y experiencia para participar en la creación de herramientas de optimización de distintos procesos internos y proponer mejoras.
+¿Qué esperamos de ti?
+Que puedas diseñar y construir aplicaciones web intensivas en datos y con una interfaz amigable, utilizando JavaScript/HTML/CSS
+Que tengas experiencia en React
+Que tengas experiencia en el ecosistema frontend moderno, herramientas de tooling y librerías, tales como webpack, sass, redux, mobx, entre otras
+Que te motiven los desafíos y aprender constantemente de manera autodidacta.
+Que quieras trabajar bajo buenas prácticas de ingeniería de software como Clean Code, testing, CI/CD, etc
+Que tengas experiencia trabajando con APIs REST.
+Que entiendas conceptos como flujo unidireccional de data, inmutabilidad, encapsulación y arquitecturas de componentes
+Que tengas conocimientos y/o familiaridad con APIs nativas de la plataforma web
+Que poseas dominio de herramientas para la automatización de los procesos de desarrollo de software
+Que tengas experiencia con pre-procesadores CSS y/o CSS-in-JS
+Que puedas comunicarte en español e inglés, sobre todo escrito
+Te amaríamos más aún si
+Que tengas nociones de UX/UI y puedas tomar decisiones de diseño
+Has trabajado con Firebase
+Que domines de conceptos de programación funcional y programación reactiva
+Que no le tengas miedo a tomar decisiones y liderar proyectos
+Que trabajes de forma proactiva, responsable y creativa
+Que abraces la diversidad, la interculturalidad y seas tolerante
+Te guste aprender constantemente no sólo sobre tu trabajo: que tengas un hobbie, te guste hacer cosas y seas un aporte positivo al equipo
+¿Cómo serán tus primeros días?
+Con la pandemia no solo hemos tenido que adaptarnos a la mascarilla, sino también a nuevos procesos internos. Últimamente nuestro crecimiento se ha acelerado en un 300% y trabajamos día a día para seguirle el ritmo, sin dejar de entregar la mejor experiencia a nuestros usuarios y a ti, que vienes a trabajar con nosotros.
+
+Por ahora nuestros Onboarding y día a día son 100% remoto, para proteger la salud de todes (lo que no quiere decir que trabajaremos así para siempre, pero sí hasta que todas y todos puedan sentirse seguros al momento de salir y enfrentar las calles y aglomeraciones).
+
+¿Cómo vamos a proceder?
+- Recibirás tu contrato por email y podrás firmarlo digitalmente para que no tengas que salir.
+- Recibirás en la puerta de tu casa tu computador y herramientas de trabajo que necesites.
+- Tendrás una inducción con los distintos equipos con los que trabajarás.
+- Serás invitado a una QA party (ya te explicaremos qué es eso) para participar en las mejoras de nuestro servicio.
+- Para que no te sientas como el meme del perrito en el computador que dice ""I have no idea what I'm doing"", la primera semana agendaremos tu Onboarding (todo remoto por supuesto, así que puedes estar en pijama y nadie lo va a notar).
+
+Nuestros beneficios:
+Porque no todo es trabajo duro, también tenemos beneficios para que tus días en la oficina sean más amigables.
+- Horarios flexibles, real
+- Vacaciones adicionales
+- Suscripción a Cornershop Pop para tus compras
+- Seguro complementario de salud, vida y dental
+- Actividades deportivas semanales
+- Formación técnica: suscripción a plataforma con cursos, libros, certificaciones, etc
+- Tech Talks informativas y formativas
+- Y lo mejor de todo, trabajar y aprender con un equipo fuera de serie
+
+Si quieres ser parte de un equipo profesional, respetuoso y diverso, donde te aseguramos que aprenderás mucho desarrollando esta software company, postula y las personas que escribieron esto se pondrán en contacto contigo.
+
+Si quedaste con ganas de saber más de nosotros, puedes encontrar más detalles aquí:
+https://medium.com/getonbrd/awesomecompanies-episodio-6-cornershop-8851c728d3e0
+http://www.laclase.cl/",4.2,"Cornershop
+4.2",Santiago,-1,501 to 1000 Employees,2015,Company - Private,Food & Beverage Stores,Retail,Unknown / Non-Applicable,-1
+"Senior Systems Software Engineer, Ecosystems",-1,"Checkr's mission is to build a fairer future by improving the understanding of the past. Since graduating Y-Combinator in 2014, Checkr's product has shifted the on-demand economy and has continued to scale into serving enterprise companies across various industries. As a company that provides modern and compliant background checks for global enterprises and startups, Checkr knows first hand how difficult it may be for individuals with prior criminal history to find employment and we want to help provide fair chances for the formerly convicted. A career with Checkr provides the opportunity to make an impact on the professional lives of millions of people and we encourage all qualified individuals to apply for our roles.
+
+Checkr is looking for experienced Systems Software Engineers to help us build and maintain integrations with Applicant Tracking Systems.
+
+Our team's mission is to bring Checkr's features to customers using a wide variety of Applicant Tracking Systems. We are Checkr experts and build the best user experience in integrations. We work with developers and architects to connect complex software systems.
+
+What a typical week may look like at Checkr:
+Learn about Applicant Tracking Systems and how they interact with Checkr
+Building new features for Applicant Tracking Systems integrations and testing them
+Communicating with internal and external developers to build solutions that improve their productivity
+Exposing Checkr APIs to and building sample solutions in MuleSoft Anypoint Platform
+Defining requirements to grow Checkr's public APIs to cover new and existing product features
+Help identify, triage and solve bugs
+What we value in a Systems Engineer:
+Familiarity building and using different types of APIs, for example ReST, SOAP, gRPC
+Knowledge object oriented programming language, preferably Ruby, Java, or Python
+You have curiosity in figuring out how to deliver clean, robust and scalable code
+You have experience with at least one or more of the following: CI/CD tools, microservices, infrastructure services (Publish-subscribe systems, API Gateways, RPC frameworks, high-level testing strategies), or open source software
+You understand how to build reliable distributed systems and can discuss tradeoffs in depth
+You are a strong communicator and can build agreement between groups of people with different levels of technical expertise
+English Speaking Proficiency
+Brownie Points:
+You have built and deployed code on a SaaS platform
+Experience with IPaaS platform, for example MuleSoft Anypoint Platform, Dell Boomi
+Academic background in computer science or equivalent (BSc or MSc)
+What you get:
+A fast-paced and collaborative environment where we leverage the latest technology
+Hands-on coaching and professional development
+Remote Working Policy
+Competitive compensation and opportunity for advancement
+Unlimited Vacation Policy
+Equal Employment Opportunities at Checkr
+
+Checkr is committed to hiring talented and qualified individuals with diverse backgrounds for all of its tech, non-tech, and leadership roles. Checkr believes that the gathering and celebration of unique backgrounds, qualities, and cultures enriches the workplace.",3.7,"Checkr
+3.7",Chile,-1,201 to 500 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Site Reliability Engineer,-1,"Are you passionate about Artificial Intelligence, Machine Learning and Deep Learning? Are you empathetic, curious, and enthusiastic about transferring your ideas into solutions for some of the most challenging technical problems of our generation with a belief that data driven processes lead to great products?
+
+Join us! In MSAI, (Search, Assistant and Intelligence) you will help develop and deploy large scale services and platforms. You will collaborate with teams across Microsoft and Microsoft Research who are building the newest, most compelling intelligent applications in the world. We are a close-knit team of highly accomplished, deeply technical engineers and data scientists focused on delivering cutting edge technologies that impact hundreds of millions of users for Microsoft 365. We are an infrastructure team working on deep learning inference and natural language understanding services for O365.
+
+Microsoft enables digital transformation for the era of an intelligent cloud and an intelligent edge. Its mission is to empower every person and every organization on the planet to achieve more.
+
+Responsibilities
+
+
+Your responsibilities will include some or all of the below:
+
+Troubleshoot problems or flaws affecting the availability, reliability, performance, and efficiency of components and features.
+
+Respond to incidents during on-call rotations by identifying the level of impact, troubleshooting issues, and deploying appropriate fixes to resolve root causes.
+
+Implement configuration and data changes across a range of product components.
+
+Suggest potential solutions to resolve and prevent recurring issues and bring them to the attention of other engineers.
+
+Recommend configurations optimal of cloud technology solutions and modify the code base that defines systems or cloud technologies to improve the reliability and operability of supported products.
+
+Qualifications
+
+
+Required Qualifications:
+4+ years of technical experience in software engineering, network engineering, or systems administration
+Familiarity with scripting languages
+Foundational understanding of distributed systems design, interactions between cloud technology layers and components, dependencies at scale, and the code that defines infrastructures.
+Strong verbal and written communication skills with excellent interpersonal communication and collaboration skills
+Demonstrated commitment to the success of others.
+Preferred Qualifications:
+Deep knowledge of industry trends as well as advances in large-scale distributed systems and cloud technologies
+Prior experience with development in large low-latency high-volume services, experience with service-oriented development and cloud-based systems.
+Enjoy learning and ramping up on new technologies quickly
+Passion for data-driven decision making
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+XXOIRecruitXX",4.4,"Microsoft
+4.4",Argentina,-1,10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Associate Software Engineer,-1,"* Please upload your resume in English only *
+
+About Evernote
+
+
+Evernote is a place for individuals and teams to assemble, nurture, and share ideas in any form. We've assembled an incredibly talented, diverse, and spirited team to build products that impact the lives of millions of people around the world. Our employees enjoy access to the best tools available, an open and collaborative work environment, and end each day knowing that they've made a tangible impact.
+
+The Evernote app is available across platforms on desktop, mobile, or on the web, meaning your ideas are always with you, always accessible, and always in sync. We believe that no idea is too big to lead or too small to matter, and continually develop a service and reputation based on innovation and trust.
+
+What you'll do
+Work as part of a small, supercharged team
+Collaborate with Product Managers, Architects and Engineering leaders to define, build and architect new customer-facing features.
+Write clean and reusable code
+What you've done
+Have education or experience as a software engineer (New graduates are welcome)
+You have strong communication skills. Able to communicate in English.
+Entry level proficiency in Java, Node JS, JavaScript, React JS.
+Able to quickly learn new technologies, tools and platforms. Will build complex scalable and performant systems, so strong CS fundamentals is a big plus.
+Some experience working with distributed systems and cloud microservice architectures, or Elasticsearch deployments, is a big plus
+
+Who you are
+You are committed to writing reliable, scalable, testable and maintainable code
+You are fluent in written and oral English
+You work comfortably with people in different time zones
+You have self-driven determination to complete tasks
+You work well with teams and help those around you improve
+We are committed to an inclusive and diverse Evernote. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global Evernote Community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer.
+
+California privacy notice: Read our privacy policy for job applicants here.",4.0,"Evernote
+4.0",Santiago,-1,201 to 500 Employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),-1
+"R&D Engineer, II",-1,"Business Title
+R&D Engineer, II
+
+10-Dec-2020
+
+Requisition Number
+27723BR
+
+Job Description and Requirements
+Have you ever dreamed of working with the top technology enterprises of the world, developing technology to enable the innovations of tomorrow? You can make it a reality working at Synopsys because we are looking for you to help us shape tomorrow's world. We are at the heart of the innovations that will change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. We are powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want you!
+
+Description
+
+You will be responsible for the design, implementation, and debugging of the pieces of software lying at the core of our world-leading microchip design tools. You will work with a strong background in C and C++, data structures, and algorithms. You will design regression tests to assure continuous levels of quality within a large community of developers. You will be working in a worldwide enterprise, meeting with talented people from around the world, partnering to solve complicated issues. You will report to a local manager, working alongside the US team. And the most important, you will never stop learning and surprise you!
+
+Qualifications
+
+BS in Computer Science / Electronics or equivalent
+Minimum 2 years of related experience
+Working knowledge of C/C++ and Linux
+Problem solving skills
+Good communication skills in English (spoken and written)
+
+We are looking forward to hearing from you!
+
+Hiring Location
+CHILE - Chile, CHILE - Santiago
+
+Hire Type
+Employee
+
+Job Category
+Engineering
+
+Country
+Chile",4.1,"Synopsys
+4.1",Santiago,-1,10000+ Employees,1986,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1
+Software Engineer II,-1,"Job Description
+
+
+Job Title: Software Engineer II (Java/Spring/AWS)
+
+Location: Santiago, Chile
+
+About This Role:
+
+The Software Engineer II delivers backend software solutions to internal and external clients. This includes the design, modification, development and implementation of software programming applications. Additionally, the Software Engineer II may lead and direct the work of others. A wide degree of creativity and latitude is expected, as well as an understanding of business needs and requirements.
+
+What You’ll Do:
+Modifies, writes, and documents backend software applications
+Consults with clients to gather information about program needs, objectives, functions, features, and input and output requirements
+Works with stakeholders to understand problem statements and suggest possible implementations
+Demonstrates personal ownership and takes accountability for larger assigned tasks
+Converts designs and specifications into software applications
+Analyzes code to find causes of errors and revises programs
+Consults with client to prototype, refine, test and debug programs to meet needs
+Provides technical assistance by responding to inquiries from others regarding errors, problems or questions about programs
+May train end users or technical support staff to use programs
+Follows development best practices and standards
+Design & develop platform components such as API's, applications, data processing pipelines, and reporting solutions
+Collaborate with data scientists and data analysts to implement statistical functions that operate at scale
+Design and develop instrumentation, monitoring, and internal tooling for operating the platform
+Participate in design and code reviews
+What You’ll Need
+2-4 years of experience in software development including design, coding, and testing
+At least 2 years of experience with Java and Java frameworks like Spring and Spring Boot
+At least 2 years of experience implementing RESTful APIs
+Experience with AWS cloud services like EMR, EC2, Redshift, RDS, Lambda
+Experience with Apache Spark framework
+Experience with workflow management tools like Airflow, Luigi, conductor etc.
+Experience working with DevOps style production operations
+Benefits:
+Lunch benefit through an Amipass card that you can use in different restaurants, coffee shops and supermarkets.
+Health & Life Insurance, with a private executive to help you with all of your doubts and questions in any process you might be going through.
+We want you to have fun on your birthday! So, we give half a day off so you can celebrate accordingly.
+We cover the 3 first days of medical leaves that are for less than 10 days, so you can just focus on your health.
+We have different agreements with banks, fitness centers, dental clinics and restaurants for you to enjoy.
+Comscore has online learning platforms that give you the option to learn something new every time you want to!
+Our famous summer hours come from December through March, where every Friday we work only until 14:00 so you can enjoy the summer time.
+About Comscore
+
+At Comscore, we’re pioneering the future of cross-platform media measurement, arming organizations with the insights they need to make decisions with confidence. Central to this aim are our people who work together to simplify the complex on behalf of our clients & partners. Though our roles and skills are varied, we’re united by our commitment to five underlying values: Integrity, Velocity, Accountability, Teamwork, and Servant Leadership. If you’re motivated by big challenges and interested in helping some of the largest and most important media properties and brands navigate the future of media, we’d love to hear from you.
+
+Comscore (NASDAQ: SCOR) is a trusted partner for planning, transacting and evaluating media across platforms. With a data footprint that combines digital, linear TV, over-the-top and theatrical viewership intelligence with advanced audience insights, Comscore allows media buyers and sellers to quantify their multiscreen behavior and make business decisions with confidence. A proven leader in measuring digital and set-top box audiences and advertising at scale, Comscore is the industry’s emerging, third-party source for reliable and comprehensive cross-platform measurement. To learn more about Comscore, please visit Comscore.com.
+
+EEO Statement: We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, disability status, sexual orientation, gender identity, age, protected veteran status or any other characteristic protected by law.",3.1,"comScore
+3.1",Santiago,-1,1001 to 5000 Employees,1999,Company - Public,Advertising & Marketing,Business Services,$100 to $500 million (USD),-1
+Site Reliability Engineer,-1,"Cornershop es un servicio que te lleva el súper y distintas tiendas de especialidad, a tu casa o donde quieras, en una hora. Somos una de las Startups con mayor crecimiento en Latinoamérica: estamos en Chile, México, Perú, Colombia, Canadá, Brasil, Estados Unidos y Costa Rica.
+
+Parte de nuestra misión es crear un servicio simple e intuitivo, que logre ser lo más automatizado posible y que, por lo mismo, logre escalar de forma orgánica. Los problemas los resolvemos a través de Software y nuestros equipos trabajan, piensan y hablan con y desde la tecnología.
+
+En Cornershop estamos buscando una o un Site Reliability Engineer (SRE) para nuestro equipo de Platform Engineering. Nuestro equipo desarrolla, entrega y opera servicios core de infraestructura como bases de datos, clusters de Kubernetes, message brokers, monitoreo y alerting, pipelines para tests, build y deploy, tooling para entornos de desarrollo, flujos de datos para reporting y data science. Somos el proveedor interno para nuestros equipos de desarrollo y producto, y nuestra misión es entregar la base para que la operación sea estable, segura y eficience de nuestro código.
+
+Algunos de los desafíos específicos que deberás enfrentar
+
+- Desarrollar e implementar la tecnología base que permita a los ingenieros de software de Cornershop escribir, desplegar y monitorear servicios de forma autónoma.
+- Analizar y resolver problemas en sistemas productivos de forma metódica. Colaborar con ingenieros de software para enfrentar problemas de escalabilidad y rendimiento.
+- Gestionar clusters de Kubernetes, bases de datos y message brokers para nuestros workloads.
+- Participar en decisiones de arquitectura enfocadas en escalabilidad, performance y seguridad.
+- Velar por la continuidad operativa de los servicios y sistemas públicos e internos de Cornershop.
+- Escribir documentación técnica.
+
+¿Qué esperamos de ti?
+
+- Al menos 5 años de experiencia manejando web distribuidos de gran escala y con alta disponibilidad.
+- Conocimiento a nivel experto en sistemas basados en Linux.
+- Conocimiento profundo de Docker (creación de imágenes, manejo del despliegue y ciclo de vida, etc).
+- Experiencia manejando y automatizando el ciclo de vida de clusters Kubernetes en nubes públicas u on-premise, utilizando kops o herramientas similares.
+- Experiencia trabajando con AWS.
+- Amor por la automatización y experiencia diseñando e implementando pipelines para Continuous Integration y Continuous Delivery de software, infraestructura y procesamiento de datos.
+- Alta capacidad de autogestión para trabajar y priorizar tareas de manera independiente.
+- Excelente forma de comunicación para trabajar con equipos remotos de distintos países.
+Te amaríamos más aún si
+
+- Tienes experiencia diseñando la arquitectura de sistemas distribuidos.
+- No temas ver y trabajar en problemas del código de otros equipos.
+- Que trabajes de forma proactiva, responsable y creativa.
+- Abrazas la diversidad, la interculturalidad y seas tolerante.
+- Que te guste aprender constantemente no sólo sobre tu trabajo: que tengas un hobby, te guste hacer cosas y seas un aporte positivo al equipo.
+- Si tienes inglés avanzado: no tienes que ser bilingüe pero sí sentirte cómodo con leer regularmente, comunicarte con proveedores tecnológicos por mail y tener algunas reuniones y/o videollamadas en inglés.
+
+¿Cómo serán tus primeros días?
+Con la pandemia no solo hemos tenido que adaptarnos a la mascarilla, sino también a nuevos procesos internos. Últimamente nuestro crecimiento se ha acelerado en un 300% y trabajamos día a día para seguirle el ritmo, sin dejar de entregar la mejor experiencia a nuestros usuarios y a ti, que vienes a trabajar con nosotros.
+
+Por ahora nuestros Onboarding y día a día son 100% remoto, para proteger la salud de todes (lo que no quiere decir que trabajaremos así para siempre, pero sí hasta que todas y todos puedan sentirse seguros al momento de salir y enfrentar las calles y aglomeraciones).
+
+¿Cómo vamos a proceder?
+- Recibirás tu contrato por email y podrás firmarlo digitalmente para que no tengas que salir.
+- Recibirás en la puerta de tu casa tu computador y herramientas de trabajo que necesites.
+- Tendrás una inducción con los distintos equipos con los que trabajarás.
+- Serás invitado a una QA party (ya te explicaremos qué es eso) para participar en las mejoras de nuestro servicio.
+- Para que no te sientas como el meme del perrito en el computador que dice ""I have no idea what I'm doing"", la primera semana agendaremos tu Onboarding (todo remoto por supuesto, así que puedes estar en pijama y nadie lo va a notar).
+
+Nuestros beneficios:
+Porque no todo es trabajo duro, también tenemos beneficios para que tus días en la oficina sean más amigables.
+- Horarios flexibles, real
+- Vacaciones adicionales
+- Suscripción a Cornershop Pop para tus compras
+- Seguro complementario de salud, vida y dental
+- Actividades deportivas semanales
+- Formación técnica: suscripción a plataforma con cursos, libros, certificaciones, etc
+- Tech Talks informativas y formativas
+- Y lo mejor de todo, trabajar y aprender con un equipo fuera de serie
+
+Si quieres ser parte de un equipo profesional, respetuoso y diverso, donde te aseguramos que aprenderás mucho desarrollando esta software company, postula y las personas que escribieron esto se pondrán en contacto contigo.
+
+Si quedaste con ganas de saber más de nosotros, puedes encontrar más detalles aquí:
+https://medium.com/getonbrd/awesomecompanies-episodio-6-cornershop-8851c728d3e0
+http://www.laclase.cl/",4.2,"Cornershop
+4.2",Santiago,-1,501 to 1000 Employees,2015,Company - Private,Food & Beverage Stores,Retail,Unknown / Non-Applicable,-1
+Database Engineer - MySQL,-1,"Who is Percona?
+Percona is an industry leader in providing elite services, training and software for MySQL®, MariaDB®, MongoDB®, PostgreSQL® and other open source databases in on-premises and cloud environments. Our services and software accommodate rapid growth and application development, help companies develop and deploy agile solutions and improve your ability to keep up with customer needs.
+
+The Percona Support Team…
+Percona Support is a global, elite team of engineers who love getting to the bottom of weird and interesting database behaviour. We understand our customers’ business needs and the nuances of their technical environments. This allows us to help our customers see the big picture and identify opportunities to improve their overall database infrastructures.
+
+What you’ll be doing…
+You’ll be teaming with some of the most well known database experts in the industry who are even better teammates, friends and mentors. You’ll have the opportunity to develop your own skills and become more powerful than you can possibly imagine…. with databases.
+This is not a boring, entry-level role where you’ll just be triaging the boring and monotonous.
+Your main responsibility will be helping our customers’ DBA teams when they need expert assistance. You’ll do that by gathering relevant data and investigating issues to provide a detailed analysis of your findings in a digestible format by email, instant message or voice. For more serious and production impacting issues, you’ll perform screen sharing sessions to help them quickly navigate and resolve issues.
+When you’re not fixing things, you’ll be authoring new blog posts on interesting topics for our open-source community to digest, answering questions on our forum, creating new articles in our customer facing knowledge base for more frequently seen issues, and hosting webinars amongst other things.
+
+What does it take to be a Percona Superhero?
+Exceptional knowledge of both MySQL and InnoDB
+Be a wizard with databases and associated technical configurations
+Knowledgeable about performance tuning, query optimization, & index tuning
+Experience with backup solutions such as Xtrabackup
+Experience with HA solutions such as Orchestrator
+Detailed understanding of monitoring requirements
+Demonstrable experience of administering Linux based systems
+Ability to troubleshoot methodically, identifying and applying fixes for known errors, and when necessary, capacity to think outside of the box to resolve complex issues
+Enthused to expand your skill set with new technologies as the industry continues to evolve
+Availability to travel for the occasional team meeting, conference or customer visit
+Experience working with customers in English
+What Will Make You Stand Out
+Galera / XtraDB Cluster / ProxySQL
+Cloud Services such as AWS and RDS, Azure, GCP
+Nagios, Percona Monitoring Plugins (PMM) and other monitoring tools
+Configuration management solutions such as Ansible, Puppet or Chef
+Percona Toolkit suite
+MySQL DBA, Professional Certifications
+MongoDB
+PostgreSQL
+MyRocks
+Kubernetes / OpenShift / Docker
+Location: Remote, work from home position. 5 day work week including weekend. Participation with the on-call team schedule. A stable internet connection is required.",4.7,"Percona
+4.7",Santiago,-1,51 to 200 Employees,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1
+Field Engineer - Piping,-1,"Field Engineer - Piping
+
+Requisition ID: 232005
+
+Requisition Posting End Date: 01/13/2021
+
+Project Overview
+
+The Pennsylvania Chemical project is a world scale petrochemicals facility to be constructed in Monaca, Pennsylvania, USA – thirty miles north of Pittsburgh, Pennsylvania. The project is divided with two scopes: ISBL and OSBL. The ISBL scope is the supply of 1.5 MTPY Ethane Cracker Unit and three Polyethylene units. The OSBL is the supply of the rest of the facility, the cogeneration unit, rail and utilities that are needed to support the rest of the facility. The project will be performed predominantly on a direct hire basis with some specialty and service subcontractors.
+
+Role Overview
+
+The Piping Field Engineer is responsible providing technical support for all piping activities on Pennsylvania Chemicals site. The selected applicant shall provide support to the Superintendents and direct hire craft responsible for executing above and below ground piping work in the OSBL unit.
+
+This is a night shift role.
+
+Position Duties/Responsibilities:
+
+The responsibilities of the piping field engineer include, but are not limited to:
+
+· Provide technical assistance to the piping superintendents and crafts.
+
+· Implementation of the project ES&H program and quality control program.
+
+· Develop and implement Inspection and Test Plans for major piping activities.
+
+· Inspection of field installations and completion of associated documentation on a continuing basis and complete the final P&ID checks prior to turnover.
+
+· Responsible for quantity take-off, control, reporting and forecasting for all piping quantities.
+
+· Assist supervision and project controls in the preparation of detailed work plans and short-term schedules.
+
+· Responsible for the development of piping work packages in conjunction with supervision.
+
+· Prepare field change documentation and as-built documentation as required.
+
+· Interpret design drawings and interface with engineering office to resolve design and constructability issues.
+
+· Responsible for the development of pressure test packages and responsible for witnessing and verifying and acceptance.
+
+· Work with suppliers to ensure compliance with project drawings and specifications.
+
+· Prepare material requisitions, coordinate and review vendor drawings.
+
+· Work with Procurement's expediting team to ensure the delivery of vendor materials to support the project schedule.
+
+· Work within TEAMWorks to verify accurate data from engineering and suppliers.
+
+· Ensure that materials are stored properly to ensure environmental protection.
+
+· Complete material receipt inspections as required.
+
+· Assist with preparation of construction estimates.
+
+· Work closely with other discipline field engineers and coordinate efforts and activities to meet the project requirements.
+
+· Strong technical knowledge of pipe hydrotesting and pneumatic pipe testing processes and work steps, including disassembly and re-instatement of pipe systems.
+
+· Experienced with torque and tensioning methods of bolted flange connections. Excellent problem-solving ability along with experience of safety/quality protocols.
+
+Basic Qualifications
+
+· University/BS degree is desired but may be waived if equivalent industry experience can be demonstrated.
+
+· 5-7 years minimum piping field engineering experience in a direct hire environment.
+
+· Understanding of applicable Bechtel work processes including Standard Work Process Procedures is preferred.
+
+· Experience in oil, gas, refinery, petrochemical, minerals processing or power generating station construction is preferred.
+
+· Familiarity with Bechtel Standard Applications (BSAPs) including InfoWorks, TEAMWorks, BPS, PTR, and other automation tools which are used on Bechtel projects is an asset.
+
+· Knowledge of Smart Plant Review or Navisworks is preferred.
+
+· Computer literate in word processing, spreadsheet and database applications.
+
+· Working knowledge of applicable industry codes and standards is required.
+
+· Experience on US union projects preferred
+
+· Excellent communication and problem-solving ability
+
+Grade 26
+
+On a large project, functions as a lead discipline engineer, coordinating related discipline activities and interfacing with other areas/disciplines on the jobsite.
+
+On a small to medium-sized project, performs the duties of a lead engineer in an area, coordinating and directing a variety of disciplines, or performs the duties as a Project Field Engineer or Project Field Quality Control Engineer coordinating activities related to the operation of the assigned operating section of the jobsite.
+
+Grade 25
+
+On a large project, independently performs assigned activities in one discipline, interfacing with other disciplines in all areas of the jobsite.
+
+On a small to medium-sized project, functions as a lead discipline engineer, coordinating related discipline activities and interfacing with other areas/disciplines on the jobsite.
+
+Additional Information
+
+Work includes field inspections and the physical ability to conduct field inspections which require the following activities: extensive walking in and around a construction site, climbing ladders, climbing scaffolding, working on elevated platforms, working on uneven surfaces and working in small or confined spaces. Some lifting may be required. Must have the ability to walk into and out of the project (enter/egress). Must be able to use appropriate standard issued Personal Protection Equipment (PPE) required for each assigned task (i.e. harness, life vest, lift buckets, etc.).
+
+Shaping tomorrow together
+
+Bechtel is one of the most respected global engineering, construction, and project management companies. Together with our customers, we deliver landmark projects that foster long-term progress and economic growth. Since 1898, we’ve completed more than 25,000 extraordinary projects across 160 countries on all seven continents. We operate through four global businesses: Infrastructure; Nuclear, Security & Environmental; Oil, Gas & Chemicals; and Mining & Metals. Our company and our culture are built on more than a century of leadership and a relentless adherence to our values, the core of which are safety, quality, ethics, and integrity. These values are what we believe, what we expect, what we deliver, and what we live.
+www.bechtel.com
+
+Bechtel is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, age, national origin, physical or mental disability, citizenship status (except as authorized by law), protected veteran status, genetic information, and any other characteristic protected by federal, state or local law.",3.9,"Bechtel
+3.9",Chile,-1,10000+ Employees,1898,Company - Private,Architectural & Engineering Services,Business Services,$10+ billion (USD),-1

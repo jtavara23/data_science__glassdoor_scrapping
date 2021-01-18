@@ -1,0 +1,1314 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Data & Analytics Associate Data Engineer,-1,"Do you love to apply your deep IT knowledge to delivering technology-based business ideas and capabilities? Apply with us!
+
+In P&G IT - whether your role is to craft an IT innovation strategy for a business, protect our critical information systems and assets, or handle a strategic supplier in our state of the art service organization - your passion for technology and its business application will be recognized and rewarded.
+
+We are looking for someone who is self-motivated, and able to source and develop data models to fuel the analytics, developed by the analysts and data scientists, which improve P&G’s business results. Technical mastery and interpersonal /communication skills are therefore a must to thrive in a team. Your job is to onboard complex data or optimize data models and code into scale pipes and jobs that will drive the analytics into insights.
+
+
+
+Perform data discoveries to understand data formats, source systems, file sizes, etc. Additionally, may collect data delivered in various formats or from various systems (relational databases, FTP sites, file sharing sites (e.g. Box), external hard drives, etc.), load data in numerous different compressed and uncompressed formats (gzip, zip, tar, json, csv, Excel, etc.), perform data transformations using Hive and Impala to optimize data retrieval process and performance, create workflows for loading data on a scheduled basis using Oozie, shell scripting, sql, etc., basic working knowledge of database design and admin, and ability to create technical design documents
+
+
+
+We produce globally recognized brands and we grow the best business leaders in the industry. With a portfolio of trusted brands as diverse as ours, it is paramount our leaders are able to lead with courage the vast array of brands, categories and functions. We serve consumers around the world with one of the strongest portfolios of trusted, quality, leadership brands, including Always®, Ariel®, Gillette®, Head & Shoulders®, Herbal Essences®, Oral-B®, Pampers®, Pantene®, Tampax® and more. Our community includes operations in approximately 70 countries worldwide.
+
+Visit http://www.pg.com to know more.
+
+Our consumers are diverse and our talents - internally - mirror this diversity to best serve it. That is why we’re committed to building a winning culture based on Inclusion and our ideal candidate is passionate about the same principle: you will join our daily effort of being “in touch” so we craft brands and products to improve the lives of the world’s consumers now and in the future. We want you to inspire us with your unrivaled ideas.
+
+We are committed to providing equal opportunities in employment. We do not discriminate against individuals on the basis of race, color, gender, age, national origin, religion, sexual orientation, gender identity or expression, marital status, citizenship, disability, veteran status, HIV/AIDS status, or any other legally protected factor.
+
+
+
+We are looking for leaders who have a bachelor degree in Business/Management Information Systems and/or Computer Science/Engineering, Programming/Software Development or Operations Research or Statistics who have:",4.2,"Procter & Gamble
+4.2",Munro,-1,10000+ Employees,1837,Company - Public,-1,-1,$10+ billion (USD),-1
+Senior Data Engineer IRC,-1,"Job: IRC103797
+Location: Argentina - La Plata, Mendoza, Geodispersed, Buenos Aires
+Designation: Senior Developer
+Experience: 3-5 years
+Function: Engineering
+Skills: .net, Docker, Jenkins Pipelines, Kafka, Microservices, Spark, Unit Testing
+
+Apply Now
+
+Description:
+
+The client provides more than 300 products and services that enable their customers to process financial transactions, automate their businesses, and succeed in an increasingly competitive marketplace",3.7,"GlobalLogic
+3.7",Buenos Aires,-1,10000+ Employees,2000,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+System Engineer,-1,"System Engineer, Latin America, Remote
+ABOUT:
+Acclaro is a translation service and platform that helps the world’s leading brands succeed across cultures. Through a fine-tuned process, top industry talent and leading technologies, we make a long-term investment in our clients’ global brands.
+Working in over 125 languages and with offices around the globe, Acclaro helps clients open new markets and gain a competitive edge by expertly adapting their brands and products with fast, high-quality translations.
+DESCRIPTION:
+The Acclaro IT team is actively seeking an experienced Systems Engineer to join our team. This role will report to our Head of IT. This is an exciting opportunity to leverage your existing IT capabilities within a growing team and learn new skills along the way. The Systems Engineer will manage Acclaro’s mission critical external and internal systems ensuring our clients and staff can safely access their files and data.",-1,beyont,Buenos Aires,-1,-1,-1,-1,-1,-1,-1,-1
+Data Platform Engineer,-1,"MURAL is on a mission to inspire and connect imagination workers globally.
+MURAL is a digital workspace for visual collaboration that connects over 50 percent of the Fortune 100. Teams at global enterprises including IBM, USAA, E-Trade, Intuit, SAP, Atlassian, Autodesk, and GitHub embrace visual collaboration to run more productive meetings and workshops. This leads to a more creative, engaging, and fun way of working together, all in a welcoming, simple-to-use online space.
+Headquartered in San Francisco, California, MURAL employs over 300 people around the world. In 2020, MURAL raised $118M in a series B round of financing and are working hard to take MURAL to the next level.",4.8,"MURAL
+4.8",Buenos Aires,-1,201 to 500 Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer,-1,"ABOUT FUSEMACHINES
+
+
+Fusemachines is a leading AI strategy, talent, and education services provider. Founded by Sameer Maskey Ph.D., Adjunct Associate Professor at Columbia University, Fusemachines has a core mission of democratizing AI. With a presence in 4 countries (Nepal, the United States, Canada, and the Dominican Republic and more than 250 full-time employees) Fusemachines seeks to bring its global expertise in AI to transform companies around the world.
+
+ABOUT THE ROLE
+
+
+
+
+Education: Bachelors (required)
+
+Must be fluent in English
+
+Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.
+
+Powered by JazzHR",3.8,"FuseMachines
+3.8",Buenos Aires,-1,51 to 200 Employees,-1,Company - Private,Internet,Information Technology,Less than $1 million (USD),-1
+Data Science Engineer,-1,"Jampp is a performance marketing platform for mobile advertisers with challenges that span many technologies, from an extremely scalable and highly available platform to big data tools that allow us to manage the big stream of data. We manage hundreds of instances buying impressions in a global market 24/7 with data centers in 3 continents, processing 150 TB daily, 850K QPS and 55+ billion in-app events per month. In order to pick the best ads and show them to the right people at the right time, we rely on real-time machine learning models (with billions of features) that predict in less than 1ms as well as optimization systems which solve complex constrained problems to maximize global company goals in an iterative fashion.
+
+As a Data Science Engineer you will work with other team members to design, prototype and build scalable distributed optimization and forecasting systems that will be used to enhance the machine learning platform we have.",3.9,"Jampp
+3.9",Buenos Aires,-1,51 to 200 Employees,2013,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer,-1,"Responsibilities
+This role is responsible for coding of the large volume of processing that will need to be done. They will be responsible for determining the most efficient way to store / access our data; and writing code that will process the data in an efficient and parallel manner. This role is naturally oriented to the cloud. As such they will need to be familiar with AWS
+
+Qualifications and Experience
+Must have:
+Spark data processing",4.2,"Endava
+4.2",Rosario,-1,5001 to 10000 Employees,2000,Company - Public,IT Services,Information Technology,$100 to $500 million (USD),-1
+Data Engineer,-1,"Buscamos una persona proactiva, con ganas de incorporarse a nuestro equipo de big data!
+
+Proveemos soluciones y servicios para ayudar a las empresas a obtener de manera fácil y rápida las respuestas que necesitan a partir del procesamiento de datos complejos. Nos especializamos en Business Analytics & Big Data, tenemos conocimientos en todas las tecnologías líderes y experiencia en distintas industrias.
+Contamos con oficinas en Buenos Aires,Cordoba, Bogotá y Chile
+
+Requisitos
+
+Conocimientos en:
+Python
+Azure
+Cosmos DB
+DataFactory
+SQL Server
+Inglés intermedio - avanzado
+
+Beneficios
+
+Prepaga Swiss Medical
+Plan de Capacitaciones
+Cursos de inglés
+Plan de referidos internos
+Presente por cumpleaños y días especiales
+Entre otros...",3.8,"COREBI
+3.8",Córdoba,-1,51 to 200 Employees,2006,Company - Private,-1,-1,$1 to $5 million (USD),-1
+Data Engineer,-1,"Fecha de publicación
+29/05/2020
+Lugar de trabajo
+Villa Urquiza, Caba
+Empresa
+Sankalpa Consultora
+Permite trabajar remoto
+No
+Seniority requerido
+Senior
+Email de contacto
+info@sankalpaconsultora.com",5.0,"Sankalpa Consultora
+5.0",Villa Urquiza,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data Engineer,-1,"Job Description
+
+We are looking for a qualified Data Engineer to join our growing department. The hire will be responsible for building and maintaining the data architecture of a solution, as well as optimizing data flow and collection for cross-functional teams. The ideal player is an experienced data pipeline builder with strong skills in software engineering who enjoys developing and optimizing data systems. The Data Engineer will support our software developers, data architects, data analysts and data scientists on their initiatives and will ensure optimal delivery is consistent throughout ongoing projects.
+
+
+
+
+
+
+
+
+
+
+At least one case handling large datasets (i.e. millions of records).
+
+
+
+
+
+
+2+ years of code versioning through a system like Git or SVN.",5.0,"Fligoo
+5.0",Córdoba,-1,1 to 50 Employees,2013,Company - Private,Internet,Information Technology,$1 to $5 million (USD),-1
+Data Engineer,-1,"ExxonMobil Business Support Center Argentina S.R.L; empresa afiliada a Exxon Mobil Corporation (*)
+Job Summary
+The Data Engineer interacts with ExxonMobil’s teams to troubleshoot data flows, data errors, and add data requests to them.
+
+The Data Engineer will need to maintain packages and pipelines which transfer data between field servers, staging database and corporate repositories
+Responsibilities
+* Work with field teams to troubleshoot data flows, data errors, and add data requests to these data flows.
+
+* Troubleshoot ETL data flow issues within the corporate network and 3rd party data coming into production systems.
+
+* Maintain SSIS packages which transfer data between field servers, staging database and corporate ETL databases.
+
+* Provide data platforms support (On-premises databases, Data warehouse, Data Lake).
+
+* All these exciting activities and many more are supported by our Agile teams with expertise in different technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(*) Afiliada ExxonMobil significa Exxon Mobil Corporation y/o toda persona, individuo, sociedad de persona, sociedad con responsabilidad limitada, sociedad anónima, fideicomiso, sucesión, asociación no constituida, representante, joint venture u otra entidad, directa o indirectamente controlante, controlada por Exxon Mobil Corporation o bajo control común con Exxon Mobil Corporation. Para los fines de esta definición el término ""control"" (incluyendo los términos ""controlante"" y ""bajo control común con"") significa posesión, directa o indirecta del poder para dirigir o disponer la dirección del manejo y políticas ya sea a través de la titularidad de títulos, acciones, cuotas o cualquier otro documento con derecho a voto, o por contrato o de otro modo, respecto de cualquier persona, individuo, sociedad de personas, sociedad con responsabilidad limitada, sociedad anónima, fideicomiso, sucesión, asociación no constituida, representante, joint venture u otra entidad.""",3.4,"ExxonMobil
+3.4",Buenos Aires,-1,10000+ Employees,1870,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1
+Data Engineer,-1,"ExxonMobil Business Support Center Argentina S.R.L; empresa afiliada a Exxon Mobil Corporation (*)
+Job Summary
+The Data Engineer interacts with ExxonMobil’s teams to troubleshoot data flows, data errors, and add data requests to them.
+
+The Data Engineer will need to maintain packages and pipelines which transfer data between field servers, staging database and corporate repositories
+Responsibilities
+* Work with field teams to troubleshoot data flows, data errors, and add data requests to these data flows.
+
+* Troubleshoot ETL data flow issues within the corporate network and 3rd party data coming into production systems.
+
+* Maintain SSIS packages which transfer data between field servers, staging database and corporate ETL databases.
+
+* Provide data platforms support (On-premises databases, Data warehouse, Data Lake).
+
+* All these exciting activities and many more are supported by our Agile teams with expertise in different technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(*) Afiliada ExxonMobil significa Exxon Mobil Corporation y/o toda persona, individuo, sociedad de persona, sociedad con responsabilidad limitada, sociedad anónima, fideicomiso, sucesión, asociación no constituida, representante, joint venture u otra entidad, directa o indirectamente controlante, controlada por Exxon Mobil Corporation o bajo control común con Exxon Mobil Corporation. Para los fines de esta definición el término ""control"" (incluyendo los términos ""controlante"" y ""bajo control común con"") significa posesión, directa o indirecta del poder para dirigir o disponer la dirección del manejo y políticas ya sea a través de la titularidad de títulos, acciones, cuotas o cualquier otro documento con derecho a voto, o por contrato o de otro modo, respecto de cualquier persona, individuo, sociedad de personas, sociedad con responsabilidad limitada, sociedad anónima, fideicomiso, sucesión, asociación no constituida, representante, joint venture u otra entidad.""",4.2,"ExxonMobil
+3.4",Buenos Aires,-1,10000+ Employees,2003,Company - Public,IT Services,Information Technology,$100 to $500 million (USD),-1
+Data Engineer,-1,"At Jampp, we solve the most complex and large-scale technological challenges on mobile advertising today. We process over 1,000,000 ad requests per second, which amounts to over 150TB of data per day, across three global data centers. We rely on real-time machine learning models (with billions of features) that give us predictions in less than 100ms. If you are excited about building real-time data pipelines capable of handling billion events daily and helping scale our machine learning infrastructure, Jampp might be the right place for you!
+
+As a Senior Data Engineer you will design, build and operate large scale data infrastructure systems across all environments to store, aggregate and process large amounts of data, creating our next-generation data infrastructure with Kafka and AWS Kinesis.
+
+If you have strong developing skills in Python, Go or Scala and you feel challenged to work in a fast paced environment, you might be the new Jampper we are looking for!
+
+
+
+
+
+Jampp is the programmatic platform of choice for the fastest growing on-demand companies worldwide.
+
+In 2013, we noticed the chaos surrounding mobile performance advertising and wanted to change it, somehow. We built a suite of growth products that unlock programmatic advertising for some of the biggest names in mobile (like Uber, Rappi, iFood, & Postmates to name a few).
+
+We're a team of builders - engineers, data architects, designers, and entrepreneurs - who love what we do.
+
+We serve a global customer base from our offices in San Francisco, Berlin, São Paulo, Singapore, and Buenos Aires.",3.9,"Jampp
+3.9",Buenos Aires,-1,51 to 200 Employees,2013,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer,-1,"#Somos﻿Ualá, una fintech que nació de la convicción de trabajar por la inclusión financiera con un producto digital basado en las últimas tecnologías. Queremos que más gente tenga acceso al sistema financiero, que puedan realizar sus transacciones personales de manera más fácil, transparente, cuándo quieran y dónde quieran!
+
+Queremos sumar a nuestro equipo un/a Data Engineer para el equipo de Data & Business Intelligence. Su objetivo será construir, mejorar y mantener la plataforma de datos que se encarga de procesar y disponibilizar toda la data (a nivel infraestructura y código) para la extracción, transformación y carga de datos de los distintos orígenes a nuestra plataforma de datos.
+
+
+
+Requirements:",4.6,"Ualá
+4.6",Vicente López,-1,201 to 500 Employees,2017,Company - Private,Banks & Credit Unions,Finance,Less than $1 million (USD),-1
+Data Engineer,-1,"Operamos un equipo multifuncional que se especializa cuando es necesario, pero tiene como objetivo que todos puedan contribuir.
+Contribuir a la base del código de producción y proporcionar mantenimiento y soporte continuos
+Promover las buenas prácticas de equipo, como las pruebas unitarias y la automatización de compilación / prueba, asesorando y realizando revisiones de código
+Manténgase al tanto de las tendencias nuevas e innovadoras en el desarrollo de software y el espacio de productos de software de datos y web
+Participe en el descubrimiento técnico mientras colabora con gerentes de producto, scrum masters, gerentes de proyecto, ingenieros, evaluadores y diseñadores a lo largo del ciclo de vida del producto
+
+Brindamos soluciones tecnológicas innovadoras y servicios profesionales, orientados a resolver las necesidades de infraestructura y procesos de negocios a distintos segmentos de mercado. Formamos parte del grupo BGH.
+
+Requisitos
+
+Licenciatura en ciencias de la computación o campo equivalente
+Experiencia previa en entornos ágiles / scrum
+Más de 5 años de experiencia profesional relevante en un puesto similar
+Aptitud para aprender cosas nuevas y sentido de urgencia para hacer las cosas.
+elige estabilidad / confiabilidad / capacidad de mantenimiento en lugar de nuevos objetos brillantes
+idealmente, construye cosas fuera del trabajo por diversión
+Experiencia significativa en el mundo real desarrollando productos reales a gran escala
+Experiencia práctica previa con parte o toda nuestra tecnología stack:
+
+Python
+Spark, Jive
+AWS Cloud (EMR, Lambda, EC2, Docker, S3, API Gateway, DynamoDB)
+DataStudio y BigQuery
+Microsoft SQL Server
+
+Beneficios",3.3,"BGH Tech Partner
+3.3",Argentina,-1,201 to 500 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data Engineer,-1,"Descripción del puesto:
+Proyecto: Deseamos incorporar una persona experta en diseño y desarrollo de aplicaciones basadas en ecosistemas distribuidos (Hadoop, Spark, y tecnologías complementarias) para uno de nuestros clientes, gran empresa del sector bancario.
+Participará en el diseño y desarrollo de aplicaciones en sistemas distribuidos orientados al Big Data como lo son Spark, y el resto de las herramientas de alta popularidad en torno a Hadoop y Cloudera. Se definirán buenas prácticas de diseño y programación de estos sistemas, mayormente basados en Java, Scala, y PySpark.
+
+Empresa de transformación y modernización financiera, fomentando la generación de valor agregado desde el inicio del proyecto del cliente, presentando soluciones de vanguardia de alto impacto al desempeño organizacional, con resultados acordes a las necesidades del cliente.
+
+Requisitos
+
+Experiencia y conocimientos
+Sólida experiencia y conocimiento del procesamiento de datos, modelado de datos, algoritmos y arquitectura de datos. Desarrollo de aplicación software en ecosistema BigData en Java y/o Scala.
+Conocimiento acerca de sistemas de ingestión y manipulación de datos en batch y streaming mediante la utilización de Apache Flink, Apache Kafka y/o Spark Streaming.
+Flask, Django, Pandas, Numpy, SQLAlchemy, Django-rest-framework, JWT... Experiencia en plataformas Cloud e híbridas.
+Experiencia en implementaciones con el stack Big Data y ecosistemas de tiempo real: Spark, Hadoop, Sqoop, Pig, Hive, Hbase, Flume, Kafka, Storm, HDFS, Impala.
+Experiencia en la construcción de bases de datos, procesos de carga de datos (ETL, ELT, Ingesta) para proyectos de big data.
+Formación en Ingeniería o Ingeniería técnica en Informática, Licenciatura en Física o Matemáticas.
+
+Beneficios
+
+100% Remoto",-1,Lancefleet,Argentina,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data Engineer,-1,"Desde Talent Pro estamos buscando un analista BI, con experiencia en modelado de datos en Power BI, tabulares y reportes. El rol deberá llevar adelante tareas de modelado de tabulares, reportes e interactuar con usuarios finales para interpretar los requerimientos.
+El equipo de trabajo está conformado por AF de negocio, desarrolladores de reportes, y un líder de proyecto.
+El proyecto consiste en llevar adelante la construcción de modelos tabulares para alimentar a los reportes existentes que hoy van directo a la base de datos.
+
+Nuestro cliente ofrece una amplia cartera de tecnologías de gestión de datos y tiene experiencia en soluciones de información empresarial. Big Data e inteligencia empresarial e integración empresarial. IBM Business Partner: Tecnologías y soluciones de integración y gestión de la información
+
+Buscamos entender el mundo a través de los datos, conocer a las personas, diseñar experiencias para que la vida sea mejor y trabajemos con mayor seguridad y eficiencia.
+
+Su misión es ayudar a las organizaciones a conocerse mejor a partir de centrarse en sus datos, porque cada dato será analizado a perpetuidad por los algoritmos.
+
+Requisitos
+
+Amplia experiencia en modelado de tabulares.
+Conocimiento en Analysis Services 2016/2019.
+Conocimiento y experiencia en construcción de reportes.
+Experiencia en relevamientos de requisitos o interfaces a realizar.
+
+Beneficios
+
+Salario Competitivo para la Industria
+Home Office
+Prepaga OSDE
+Programa de Beneficios y Descuentos
+Clases de Idioma
+Excelente clima laboral y posibilidad de trabajar con empresas grandes.",-1,TalentPro Human Resources,Argentina,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Sr. Data Engineer,-1,"Somos la compañía líder de delivery en América Latina. Nuestra plataforma conecta a más de 77.000 restaurantes, supermercados, farmacias y tiendas de la región con millones de usuarios. Actualmente operamos en más de 400 ciudades ubicadas en Argentina, Bolivia, Chile, Paraguay, República Dominicana, Venezuela, Panamá y Uruguay. Contamos con un equipo de trabajo de más de 3200 personas. Nuestra app está disponible para sistemas operativos iOS y Android ¡y ya cuenta con más de 20 millones de descargas!
+Para seguir creciendo buscamos personas talentosas que se sumen, generen impacto en el negocio y sigan haciéndolo crecer. ¡Súmate a nuestro equipo!
+Tenemos una oportunidad para vos: Estamos buscando Sr Data Engineer para nuestro equipo de tecnología.
+Qué desafíos te esperan:",4.3,"PedidosYa
+4.3",Buenos Aires,-1,1001 to 5000 Employees,2009,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer,-1,"A Data Engineer at MightyHive, with a thorough understanding of cloud technologies, will help to deploy Big Data solutions, build and manage data pipelines, ETL processes, and cloud data migrations in a production, secure and scalable manner. The data engineer should be a data specialist with strong experience in the deployment and automation of data pipelines, data development, data cleansing, data warehousing, monitoring data processing systems, and dealing with large and various sets of structured and unstructured data. The data engineer will have experience ingesting real-time data from various data sources and designing new data platforms.
+
+Responsibilities
+Design and build data pipelines using a cloud platform.
+Manage and provision the cloud solution infrastructure.",4.2,"MightyHive
+4.2",Buenos Aires,-1,501 to 1000 Employees,2012,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1
+Data Engineer,-1,"Fecha de publicación
+14/01/2021
+Lugar de trabajo
+Buenos Aires, Arg
+Empresa
+StaffRH
+Permite trabajar remoto
+No
+Seniority requerido
+Senior
+Email de contacto
+jobs@staffrh.com",-1,StaffRH,Buenos Aires,-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+Solution Engineer – Data Architect,-1,"Solution Engineer – Data Architect
+Job Description
+Job Summary
+
+The IT Digital Sales team is responsible for developing the sales technology roadmap which will enable Kimberly Clark’s commercial transformation. Is the delivery engine for all sales capabilities within the sales portfolio, and accountable for the availability and reliability of all apps running in the sales landscape. As part of this team, the Solution Engineer (Data Architect) is responsible for integrating business, information, and technology architecture to create solutions primarily for Sales Capability areas and in some cases, cross capability areas. The Solution Engineer (Data Architect) is a leader in developing innovative, technical solutions to important, highly complex strategic systems, responsible for solving operating problems and has a strong knowledge in business and technical functions that are touch points with their area of expertise.
+
+Argentina-Buenos Aires
+Brazil -Sao Paulo
+Employee
+Regular
+Full time",4.1,"Kimberly-Clark
+4.1",Buenos Aires,-1,10000+ Employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1
+Data Engineer,-1,"Aplicar
+Enviar empleo por Email
+Guardar empleo
+Empresa multinacional de inovacion tecnologica
+Plan de carrera
+Sobre nuestro cliente
+Experian es una empresa multinacional que ofrece una amplia variedad de productos y herramientas que posibilitan a las empresas tomar decisiones rápidas, acertadas y centradas en el cliente.",3.6,"Page Personnel
+3.6",Buenos Aires,-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+Data Engineer,-1,"Fecha de publicación
+20/12/2019
+Lugar de trabajo
+Palermo, Caba
+Empresa
+Consultora Cenit
+Permite trabajar remoto
+No
+Seniority requerido
+Junior
+Email de contacto
+rrhh@consultoracenit.com.ar",-1,Consultora Cenit,Buenos Aires,-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+"Data Engineer, Financial Services",-1,"About the vacancy
+DataArt is a global software engineering firm. With over 20 years of experience, teams of highly-trained engineers around the world, deep industry sector knowledge, and ongoing technology research, we help clients create custom software that improves their operations and opens new markets.
+DataArt is assembling a team for a client that is building a new Digital Factory setup for a bank from scratch. Our client is a financial service group for one of the biggest conglomerates in the Caribbean. The project is currently in the MVP phase.
+Required Skills and Experience",4.9,"DataArt
+4.9",Buenos Aires,-1,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1
+Data Visualization Engineer,-1,"MURAL is on a mission to inspire and connect imagination workers globally.
+MURAL is a digital workspace for visual collaboration that connects over 50 percent of the Fortune 100. Teams at global enterprises including IBM, USAA, E-Trade, Intuit, SAP, Atlassian, Autodesk, and GitHub embrace visual collaboration to run more productive meetings and workshops. This leads to a more creative, engaging, and fun way of working together, all in a welcoming, simple-to-use online space.
+Headquartered in San Francisco, California, MURAL employs over 300 people around the world. In 2020, MURAL raised $118M in a series B round of financing and are working hard to take MURAL to the next level.",4.8,"MURAL
+4.8",Buenos Aires,-1,201 to 500 Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer,-1,"The selected candidate
+Leads the delivery of processes to extract, transform and load data from disparate sources into a form that is consumable by analytics processes, for projects with moderate complexity, using strong technical capabilities
+Designs, develops and produces data models of relatively high complexity, leveraging a sound understanding of data modelling standards to ensure high quality
+Builds networks with other departments across the business to help define and deliver business value, and may interface and communicate with program teams, management and stakeholders as required to deliver small to medium-sized projects
+Applies advanced big data concepts to ingest, process and transform data and store data in variety storage technologies
+Your key responsibilities include
+Empresa dedicada a la provisión de soluciones
+de IT, especializada en proyectos informáticos
+de almacenamiento de datos, virtualización,
+consolidación de aplicaciones y optimización
+de entornos WAN.
+
+Requisitos
+
+
+
+Education
+
+What we look for
+
+Beneficios
+
+100% Remote position
+Health Insurance.
+Training programs and certifications
+Annual Bonus based on performance.
+English in Company",3.4,"Agnostic
+3.4",Argentina,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+"JR Engineer, Data Analysis",-1,"Position Description:
+Worldwide Sales Operations team is seeking for a Data analyst with a strong knowledge of relational databases and SQL scripting
+Main Responsabilities:
+*Conducting independently data analysis,
+*Produce queries and analytical models
+*Development of ETL processes
+* Create reports to support Several Business Teams.
+*Creation, and maintenance of the business’s data sources,
+• Strong communication skills as candidate will work across teams and functions
+*Management of the various data assets to ensure data integrity and adhering to information management governance.
+Additional Responsibilities:
+• Provide on-going assistance/guidance to operational execution team in design/execution of reporting needs and resolution of integrity issues
+• Perform project management including project plan development, project tracking, resource management, status reporting, and issues/risks management
+• Create project requests to enhance current systems to meet new business requirements
+
+
+
+
+
+
+
+
+Lenovo",3.8,"Lenovo
+3.8",Buenos Aires,-1,10000+ Employees,1984,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+"Jr Technical Solutions Engineer, Data",-1,"At Digodat we are young, restless and eager to grow, we are just 5 years old and we are already leading the world of Data in Latin America. We have come here being honest, innovative, aiming to be better every day at what we do and above all being the key drivers of the transformation of companies towards a culture of decision-making based on data. We provide teams and specialized solutions in big data and digital analytics, under a comprehensive approach that combines consulting with development to achieve results.
+We have recently merged with MightyHive, and we are excited to meet the growing demand for data and analytics expertise worldwide.
+Together with MightyHive, we merge our teams and are ready to solve digital marketing challenges for the biggest brands and to be an unmatched partner for modern data-driven marketing specialists.",4.2,"MightyHive
+4.2",Buenos Aires,-1,501 to 1000 Employees,2012,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1
+Data Engineer,-1,"Busqueda: Data Engineer
+LATAM5411 - Reclutamiento Especializado
+Por intermedio de LATAM5411, importante empresa de marketing y publicidad digital ubicada en la zona de Palermo, se encuentra en la búsqueda de Data Engineers.
+Responsabilidades:
+Análisis de las diferentes fuentes de datos, su estructura y definición
+Creación y mantenimiento de data pipelines (batch y streaming)
+Implementación y mantenimiento de data warehouse y data lake",4.4,"MightyHive
+4.2",Argentina,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data Engineer,-1,"If you are going after new challenges, Simplex is the perfect choice for you!
+Only for candidates currently living in Argentina
+We are looking for a Data Engineer to be part of the team of an American Company, where the big data space is growing rapidly, beyond the data pipeline, you will also be instrumental in bringing the data-driven products and features to life and helping build the future of the company.
+You will also have the opportunity to work with the product teams, building models and APIs to drive new features delivers analysis to further improve engagement in existing features, and empowers our business with real-time insights to drive growth in market share, engagement, and revenue. We see 1 trillion events per year and process 10TB of data daily.",3.5,"Simplex Software
+3.5",Buenos Aires,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data Engineer,-1,"Nos encontramos en la búsqueda de Data Engineers que quieran resolver problemas de alta complejidad y aplicación inmediata.
+Necesitamos alguien que pueda dialogar muy bien con las áreas de negocio, los Data Scientists y Analistas de BI; y entender los problemas para aportar soluciones creativas e innovadoras a la mesa.
+El desafío
+Queremos que nuestra organización tenga los datos en el centro de su estrategia. Para eso necesitamos Data Engineers que puedan manejar el gran volumen de datos, construir la arquitectura de datos de forma completa y escalable; y colaborar en los flujos para la creación de modelos que permitan generar recomendaciones, detectar fraude, determinar scoring de créditos, automatizar procesos, y en general, marcar el rumbo de la estrategia mediante datos!
+En el equipo de Data, las funciones de los Data Engineers serán:
+
+Diseñar y construir una Arquitectura de Datos (Ingesta batch y Real Time, Data Lake, Data Warehouse, Data Science Workflows, etc.). Revisándola continuamente para cumplir con la demanda.
+Trabajar con clientes/usuario y profesionales de datos interpretando requerimientos de negocio, generando propuestas a soluciones de big data.
+Identificar diferentes opciones de ingesta, transferencia, merge y compresión de datos.
+Comprender y administrar seguridad y costos en soluciones de Big Data.
+Orquestación de cargas de trabajo usando pipelines.
+Obtener, procesar y analizar grandes volúmenes de datos provenientes de diversas fuentes, extrayendo insights de interés.
+Formar un vínculo con los diferentes sectores de la compañía, logrando trabajar en equipos multidisciplinarios.
+Interactuar con los equipos de ingeniería al momento de desplegar, monitorear y mantener los modelos en producción.
+Investigar y divulgar el “estado del arte” en tecnologías de Big Data aplicados en la industria.
+Establecer las mejores prácticas de desarrollo de software a fin de asegurar procesos eficientes y automatizados.
+Asegurar la escalabilidad, calidad y flexibilidad, de manera que se pueda garantizar un rápido crecimiento.
+
+Reba
+Nació en Argentina para ser protagonista de la explosión Fintech en el mundo, con el objetivo de crecer a gran escala tanto a nivel nacional como internacional. Nuestro propósito es hacer Reba para que la gente viva la vida que quiere, brindando a todos acceso a los mejores servicios financieros con la mayor simplicidad, transparencia y experiencia de usuario.
+
+Para lograrlo buscamos incorporar lo mejores talentos, que a su vez cumplan con las principales características del ADN Reba: somos cliente céntricos, pensamos a gran escala y trabajamos con el más alto estándar de calidad.
+Estamos incorporando al equipo a aquellos que se sientan motivados por formar parte de este proyecto desde el primer momento y quieran generar un gran impacto a través de su trabajo.
+
+Reba es la App de Trasatlántica Compañía Financiera, una Entidad Financiera Regulada por el BCRA. A su vez, al ser parte de Grupo Transatlántica, obtenemos el equilibrio ideal entre el respaldo y trayectoria de más de 50 años de vida en distintas industrias, junto a la innovación y flexibilidad que una compañía joven ofrece al mercado y sus colaboradores.
+Sumate a Reba!
+
+Requisitos
+
+Graduados de las carreras de Ingeniería en Sistemas, Ciencias de la Computación o afines.
+Especialización en Machine Learning o Certificaciones (deseado).
+Más de 3 años de experiencia en manejo de Bases de Datos.
+Desarrollo en Python, Spark, SQL
+Experiencia en implementaciones de Hadoop / Spark, bases de datos relacionales y data Warehouse
+Conocimiento de estructura y diseño de Data Warehouse, bases de datos NoSQL, reportes y Tableros BI
+Experiencia en desarrollo y tuning de procesos ETL/ELT
+Se valora conocimientos en Microsoft Power BI o similares
+Conocimiento intermedio del idioma inglés.
+Alta capacidad de análisis y de adaptación a cambios de contexto.
+Capacidades para el pensamiento crítico y resolución de problemas.
+Experiencia comprobable en proyectos complejos y de envergadura.
+
+Beneficios
+
+Amplias posibilidades de desarrollo profesional en una organización sólida, en constante crecimiento, innovadora y dinámica. Excelente clima y estabilidad laboral.
+Contamos con importantes beneficios corporativos como una semana adicional de licencia, descuentos en gimnasios, clases de inglés incompany, descuentos en almuerzos, convenios con prepagas, entre otros.
+
+No te olvides de incluir una remuneración bruta pretendida.
+Garantizamos absoluta confidencialidad y reserva.",-1,Reba,Rosario,-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+Machine Learning Engineer,-1,"About the vacancy
+
+
+Our client is an on-demand delivery startup. The company provides opportunities to learn, grow, and help leading businesses and public-sector institutions address their most critical challenges.
+
+The project is in the early stages of development. It is going to be a long-term project. The onsite team consists of at least 15 people (back-end devs, front-end devs, project manager, QA Engineer, Designers, etc.).",4.9,"DataArt
+4.9",Buenos Aires,-1,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1
+Data Analytics Platform Engineer,-1,"Data Analytics Platform Engineer
+Job Description
+Data Analytics Platform Engineer
+As part of this team, the Analytics Platform Engineer performs leading-edge work and develops new approaches/solutions by designing and delivering the analysis, design, configuration, customization, testing, deployment and support plans for new or existing analytics platforms
+Key Accountabilities:
+This role will provide you the opportunity to lead key activities to progress in your career, these responsibilities include some of the following:
+Argentina-Buenos Aires
+Employee
+Regular
+Full time",4.0,"Kimberly-Clark
+4.0",Buenos Aires,-1,10000+ Employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1
+Software Engineer,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+MuleSoft, a Salesforce Company sits at the heart of all convergent technologies trends (SaaS, big data, APIs, microservices, etc.), and our developers are tackling some of the most challenging problems in technology today.
+As a Software Engineer at MuleSoft, a Salesforce Company, you will work on a small SCRUM team to drive the development of modular, composable, and/or maintainable microservices to expose the functionality of the Anypoint Platform to customers and allow us to scale platform usage around the world. Our teams own mission-critical aspects of a rapidly growing, globally distributed platform and, as such, you will have an incredible amount of impact on the current state and future direction of our product, with visibility throughout the organization and a significant opportunity to take ownership.",4.4,"Salesforce
+4.4",Buenos Aires,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Data Engineer - Grupo de Telecomunicaciones N1 de Argentina,-1,"Dentro de la gerencia de Advanced Analytics & Big Data, el equipo de Data Management tiene como propósito velar por la calidad y disponibilidad de los datos, promover y colaborar en la integración de nuevas fuentes de datos, así como también la administración de los algoritmos de ML productivos.
+
+Las principales responsabilidades se centran en el desarrollo, evolución y mantenimiento del DataMart analítico. Queremos que lideres el cambio hacia la cultura data driven siendo especialista en saber cómo los datos responden a las distintas necesidades analíticas, y que acompañes la evolución de nuestro ecosistema de datos y las tecnologías de explotación que utilizamos. Tus aportes irán desde el desarrollo de controles de calidad, análisis y documentación de nuevas fuentes de datos y explotación de datos con fines analíticos, con el objetivo de crear valor a partir de la información que luego será utilizada por los Data Scientist.
+
+Debido al volumen de datos que la compañía está manejando estamos en un proceso muy avanzado de evolución de tecnología y es aquí donde tenemos el mayor desafío y por lo que queremos contar con vos para llevarlo a cabo. Es importante que sepas y quieras desenvolverte dentro de un ámbito extenso, con muchos equipos de diferentes perfiles y que seas parte de la transformación hacia ser una compañía Data Driven.
+
+Estamos en la busqueda de un Data Engineer para el grupo de empresas de Telecomunicaciones N1 de Argentina, que esta en pleno proceso de transformacion digital.
+
+Requisitos
+
+¿Qué nos interesa de vos?
+
+Que tengas un amplio y avanzado conocimiento de lenguajes de programación de bases de datos (SQL, PLSQL, HiveQL) (excluyente)
+Conozcas y hayas trabajado con plataformas distribuidas (Hadoop), su arquitectura y funcionamiento.
+Conocimientos avanzados de Python.
+Muy buen manejo del idioma inglés
+
+
+Tengas experiencia con tecnologías de desarrollo de flujos de datos (Airflow, NiFi)
+Conocimientos de Spark y R
+Conocimientos sobre tecnologías Cloud AWS, GCP (Deseable
+
+Beneficios
+
+70% de descuento en servicio de Cablevisión.
+50% de descuento en Fibertel.
+Hasta 4 líneas de Personal conun 70% de descuento.
+70% de descuento en Telecom (telefonía fija).
+Swiss Medical (cobertura de medicina prepaga para vos y tu grupo primario).
+Descuento en Universidades.
+Descuento en Gimnasios (Megatlon) .
+Seguro de auto.
+Descuento para la compra de autos particulares en concesionarias de todo el país.
+Flexibilidad horaria
+Home Office semanal",-1,Ipsum HR,Buenos Aires,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Associate Data Engineer,-1,"Overview:
+Who is Virgin Pulse?
+Virgin Pulse, founded as part of Sir Richard Branson’s famed Virgin Group, helps organizations build employee health and wellbeing into the DNA of their corporate cultures. As the only company to deliver a powerful, mobile-first digital platform infused with live services, including coaching and biometric screenings, Virgin Pulse’s takes a high-tech-meets-high-touch-approach to engage employees in improving across all aspects of their health and wellbeing, every day – from prevention and building a healthy lifestyle to condition and disease management to condition reversal, all while engaging users daily in building and sustaining healthy habits and behaviors. A global leader in health and wellbeing, Virgin Pulse is committed to helping change lives and businesses around the world for good so that people and organizations can thrive, together. Today, more than 3100 organizations across the globe are using Virgin Pulse’s solutions to improve health, employee wellbeing and engagement, reduce costs and create strong workplace cultures.
+
+Responsibilities:
+
+
+Qualifications:",3.3,"VirginPulse
+3.3",Buenos Aires,-1,1001 to 5000 Employees,2004,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),-1
+Senior Software Engineer,-1,"Since 2012 Avature has been growing at a 50% annual rate, resulting in an exciting work environment, full of technical challenges and learning opportunities. Our Senior Software Engineers play the lead in this journey, using their analytical and technical skills (and above all, their enthusiasm) to tackle the complex problems of a feature-rich yet user friendly enterprise application, driving forward the growth of a product used by thousands of users every day.
+
+Your challenges and objectives:
+Achieve a rounded knowledge of our platform by understanding the complex interaction of a wide range of areas and services, from network layer to final user.
+Work on a product that involves several computer science areas, such as highly available and performant systems, top-notch security standards, and intuitive user interface design.",3.9,"Avature
+3.9",Buenos Aires,-1,501 to 1000 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+"Semi Senior Technical Solutions Engineer, Data",-1,"The Opportunity
+
+MightyHive is a new breed of media consultancy that partners with global brands and agencies seeking transformative marketing results in a time of massive disruption and opportunity. Recognized as a global leader in advanced marketing and advertising technologies, MightyHive provides consulting and services in the areas of media operations and training, data strategy and analytics.
+
+The company is headquartered in San Francisco, with teams in 19 countries and 24 cities around the world.
+
+In 2018, MightyHive merged with S4Capital plc (SFOR.L), a new age/new era digital advertising and marketing services company established by Sir Martin Sorrell in 2018.
+
+MightyHive is hiring a to be part of our Buenos Aires Data Hub Team.
+
+
+
+Verifiable experience in at least two of these languages:
+and on at least one of these platforms:
+Students or graduates of systems engineering or related careers",4.2,"Avature
+3.9",Buenos Aires,-1,501 to 1000 Employees,2012,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1
+Lead Data Engineer (Buenos Aires),-1,"Overview:
+Rise Interactive (http://www.riseinteractive.com), a rapidly growing full-service interactive advertising agency, is looking to hire a Lead Data Engineer for our Innovation team in our Buenos Aires office! We are looking for a self-directed, detail-oriented individual who thrives in an entrepreneurial culture as we grow our quickly expanding client base.
+
+
+Summary and Scope:
+Tired working on the same thing each day and then trapped by red tape when an opportunity to use a new technology comes along? As a Lead Data Engineer at Rise, you will lead and be part of a team of talented engineers that builds and maintains Connex which is our industry leading, multi-channel media optimization platform. Help turn high-level business missions into fully architected end-to-end solutions involving heterogeneous sources, performant ETL application, integrated schema designs, and efficient data access patterns. Are you up for the challenge of being part of a company that continues to lead and disrupt the digital marketing landscape with its technology and innovation?",3.2,"Rise Interactive
+3.2",Buenos Aires,-1,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),-1
+Data Engineer | DIGITAL Buenos Aires,-1,"Senior Data Engineer
+Are you passionate about a future that exceeds your expectations? Here, at AlixPartners your passion becomes your career. We work in smaller and more senior teams that bring deep industry and functional knowledge to our clients. You will sit shoulder-to-shoulder with C-Level executives to address the issues that sit at the top of their agendas - and often become front-page news.
+If you join our practice, you will work with financially secure, under-performing, and distressed companies across a variety of urgent, high impact situations. Our elite professionals are recognized experts in their respective fields, bringing to bear their skills and experience to craft measurable, improved outcomes for our clients.
+In this role, you will have the chance to create ELT/ETL workflows, scripts, visualizations, and statistical models while taking responsibility for the design, build, test, execution, and support of data-related activities including but not limited to integration, profiling, cleansing, and visualizing. The ideal candidate will have a detailed understanding of the underlying data and data structures of multiple systems to allow in-depth analysis of existing and potential data insights.",4.7,"AlixPartners
+4.7",Buenos Aires,-1,1001 to 5000 Employees,1981,Company - Private,Consulting,Business Services,$1 to $2 billion (USD),-1
+Sr Data Engineer - Grupo de Telecomunicaciones N1 de Argentina,-1,"Buscamos una persona apasionada por trabajar con las ultimas tecnologías disponibles de Google Cloud Platform y Amazon Web Services, que tenga ganas de sumarse al proceso de transforma ción digital del grupo!
+
+Seran sus responsabilidades:
+Crear los flujos de ingeniería de datos, para llevar adelante la gestión de la información de punta a punta.
+Integrar las fuentes internas y externas de datos, gestionar los flujos de datos de la empresa y habilitar esta información en tiempo y forma a los stakeholders en nuestro Enterprise DataWarehouse.
+Gestionar los pipelines de datos, optimizarlos, automatizarlos y escalarlos utilizando las herramientas disponibles (conocimientos de Glue, Data fusion, Spark o Dataproc, es un plus)
+Estamos buscando un Sr Data Engineer para el Grupo de Telecomunicaciones N1 de Argentina.
+
+Requisitos
+
+Preferentemente estudiantes avanzados o graduados de Ingeniería Informática, Ingeniería en Computación, Matemáticas Aplicadas o carreras similares.
+
+Experiencia minima de 3 años en modelos de bases de datos (operacionales y analíticos, relacionales y no relacionales), pipelines de datos (estructurado, no estructurado), BI y analítica de datos: preparación, transformación, modelación y visualización.
+
+Solidos conocimientos de Google Cloud Platform y/o Amazon Web Services,
+
+Beneficios
+
+Combos de descuentos de hasta un 70% en los servicios de la compañía (internet, cable, líneas móviles, línea fija)
+Prepaga grupo familiar
+Programa de beneficios Club Personal
+Tarjeta Clarín 365 Plus
+Hasta 40% en seguro del automotor y del hogar
+Seguro de Vida Colectivo
+Modalidades de trabajo flexible
+Descuentos en gimnasios
+Reintegro por guardería y colonia de vacaciones
+Kit Escolar para hijos/as de entre 4 y 17 años
+15 días adicionales (aplica solo a padres)
+Descuentos en universidades, terciarios y otros centros educativos",-1,Ipsum HR,Buenos Aires,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Senior Data Engineer (AWS) | DevOps,-1,"Rappi is the game changer startup for last mile delivery in Latam. With more than 100K orders daily, we are making easy our customers lives by offering all the services available in their cities and delivering it in less than 30 minutes.
+
+We are looking for a Senior Data Engineer who will be responsible for building, improving and maintaining a scalable data pipeline infrastructure required for extraction, transformation, and loading of terabytes of data from thousands of sources to our analytics platform.
+
+You will have the opportunity to apply cutting-edge technologies in large scale environment with a challenging rapid growth pace, taking ownership of both internal and external services, and applying all your skills to make an impact on the whole company.
+
+You will be working with a skilled group of international tech specialists, on a high pressure hard-work environment.",3.6,"Rappi
+3.6",Buenos Aires,-1,1001 to 5000 Employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Machine Learning Engineer,-1,"Nos orientamos a personas con experiencia tanto en desarrollo de software como en Machine Learning, colaborará con ingenieros de software, científicos de datos, administradores de proyectos y expertos en el dominio de la inversión del consumidor para desarrollar y enviar productos de datos predictivos en apoyo de la misión de CircleUp: ayudar a los empresarios a prosperar conectándolos con el capital y recursos que necesitan.
+Es un ingeniero de software apasionado que se siente cómodo trabajando en todo el ciclo de vida y la pila de productos de datos predictivos: creación de prototipos, ingeniería de funciones, validación y producción.
+CircleUp fue recientemente reconocida como una de las 10 empresas más innovadoras de Fast Company en ciencia de datos y ha sido nombrada CB Insights FinTech 250, una de las 5 empresas más disruptivas en finanzas por CNBC y Forbes FinTech 50. Fundada en 2012, CircleUp tiene su sede en San Francisco y está respaldada por Union Square Ventures, GV, Canaan Partners, QED Advisors y otros.
+
+
+Recopilar y refinar datos estructurados y no estructurados sobre empresas privadas
+Desarrolle nuestra plataforma de resolución de entidades que pueda identificar referencias a empresas, marcas y productos en documentos digitales altamente desestructurados y vincularlos con entidades del mundo real.
+Cree sistemas de producción escalables para la recopilación de datos, la transformación de datos, la extracción de funciones, el entrenamiento de modelos y la puntuación, utilizando herramientas de software distribuidas.
+Desarrolle algoritmos de extremo a extremo para medir objetivamente la calidad de las empresas de consumo privadas
+Contribuir a todas las fases del desarrollo de algoritmos, incluida la ideación, la creación de prototipos, el diseño y la producción.
+
+CircleUp aprovecha el poder del aprendizaje automático y el análisis predictivo para descubrir algunas de las empresas de más rápido crecimiento en el sector minorista y de consumo. Estamos construyendo un sistema de datos predictivos llamado ""Helio"" para llevar la revolución impulsada por los datos que ha ocurrido en los mercados públicos a los mercados privados, comenzando con el consumidor y el minorista.
+Estamos trabajando en problemas desafiantes en la recuperación de información, resolución de entidades y desarrollando un gráfico de conocimiento en profundidad de todas las empresas privadas. Estamos extrayendo grandes cantidades de datos para reescribir con éxito las reglas sobre cómo se evalúan las empresas privadas .
+
+Requisitos
+
+Licenciatura o superior en informática, matemáticas, estadística o campo técnico relacionado
+Más de 2 años de experiencia en Machine Learning, PNL y / o recuperación de información
+Amplio conocimiento de las API, las herramientas y las bibliotecas de código abierto de aprendizaje automático.
+Excelentes habilidades de codificación y sólidos fundamentos en algoritmos, estructuras de datos, modelado predictivo y conceptos de big data
+La experiencia en poner modelos en sistemas de producción es una gran ventaja
+Interés en interrumpir y democratizar toda la industria dentro de los mercados privados.
+Inglés Avanzado/Fluido
+
+Beneficios
+
+USD Salary
+remote work
+Stock options ;)",4.2,"Schmitman HR
+4.2",Argentina,-1,1 to 50 Employees,2015,Private Practice / Firm,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1
+Senior Data Engineer IRC103797,-1,"Job:
+IRC104774
+
+Location:
+Argentina - Buenos Aires, La Plata, Mendoza, Mar del Plata
+
+Designation:
+Senior Developer
+
+Experience:
+3-5 years
+
+Function:
+Engineering",3.7,"GlobalLogic
+3.7",Mar del Plata,-1,10000+ Employees,2000,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+Senior Data Engineer IRC104209,-1,"Job:
+IRC103797
+
+Location:
+Argentina - Buenos Aires, La Plata, Mendoza, Geodispersed
+
+Designation:
+Senior Developer
+
+Experience:
+3-5 years
+
+Function:
+Engineering",3.7,"GlobalLogic
+3.7",La Plata,-1,10000+ Employees,2000,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+DATA ENGINEER Jr o SSr,-1,"Data Engineer
+Buscamos un profesional con sólida experiencia en plataformas Cloud y soluciones de Big Data, con ganas de sumarse a proyectos desafiantes en un entorno global.
+¿Cuáles serán tus responsabilidades?
+Diseñar y construir pipelines de datos utilizando alguna plataforma en la nube.
+Administrar y proveer la infraestructura de la solución en la nube.
+Diseñar para la seguridad y el cumplimiento de los datos.
+Gestionar y automatizar las implementaciones de despliegue de ETL y de la nube.
+Asegurar soluciones y la fiabilidad de las operaciones.
+Diseñar e implementar soluciones de Big Data y Data Warehousing con sus correspondientes Data Governance processes. .
+Ayudamos a nuestros clientes a evolucionar hacia una cultura de toma de decisiones basadas en datos. Proveemos equipos y soluciones especializadas en big data y analítica digital, bajo un approach integral que combina consultoría con desarrollo para lograr resultados.
+
+Requisitos
+
+¿Qué esperamos de vos?
+Beneficios
+
+Prepaga swiss medical.
+3 semanas de vacaciones.
+Reintegro gastos de internet y celular.
+Clases de inglés
+Training.
+Hoy 100% remoto, luego en oficinas en Colegiales con esquema de Home flex.
+Relación de dependencia",-1,Input HR,Buenos Aires,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data Engineer SR Y/O LIDER,-1,"Fecha de publicación
+04/06/2019
+Lugar de trabajo
+Villa Urquiza, Caba
+Empresa
+Sankalpa Consultora
+Permite trabajar remoto
+No
+Seniority requerido
+Senior
+Email de contacto
+info@sankalpaconsultora.com",5.0,"Sankalpa Consultora
+5.0",Villa Urquiza,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data Engineer SSr./Sr.,-1,"Fecha de publicación
+06/12/2019
+Lugar de trabajo
+Villa Urquiza, C.A.B.A.
+Permite trabajar remoto
+No
+Seniority requerido
+Semi Senior
+Email de contacto
+manuel@hroasis.com
+
+Desde nuestros estudios en Buenos Aires, Berlín y Montevideo, creamos universos que nos conectan y entretienen con éxitos internacionales como: Preguntados, Mezcladitos, Apalabrados y más. Ya superamos los 700 millones de descargas, y somos más de 350 profesionales en el mundo. Somos una compañía internacional de tecnología fundada en 2009 en Argentina, creadora de universos que nos conectan y entretienen. Nos moviliza hacer cosas que antes no existían, correr los límites. Sumamos buenas personas, para hacer grandes equipos, y para lograr cosas imposibles.",4.6,"Py AR
+4.6",Villa Urquiza,-1,1001 to 5000 Employees,2001,Nonprofit Organization,Social Assistance,Non-Profit,Less than $1 million (USD),-1
+Senior Data Engineer (Buenos Aires),-1,"Overview
+Rise Interactive (http://www.riseinteractive.com), a rapidly growing full-service interactive advertising agency, is looking to hire a Senior Data Engineer for our Innovation team in our Buenos Aires office! We are looking for a self-directed, detail-oriented individual who thrives in an entrepreneurial culture as we grow our quickly expanding client base.
+Summary and Scope
+Tired working on the same thing each day and then trapped by red tape when an opportunity to use a new technology comes along? As a Senior Data Engineer at Rise, you will be part of a team of talented engineers that builds and maintains Connex which is our industry leading, multi-channel media optimization platform. Help turn high-level business missions into fully architected end-to-end solutions involving heterogeneous sources, performant ETL application, integrated schema designs, and efficient data access patterns. Are you up for the challenge of being part of a company that continues to lead and disrupt the digital marketing landscape with its technology and innovation?",3.2,"Rise Interactive
+3.2",Buenos Aires,-1,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),-1
+Senior Backend Engineer,-1,"About Netskope
+
+
+Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Netskope to redefine Cloud, Network and Data Security.
+Since 2012, we have built the market-leading cloud security company and an award-winning culture powered by hundreds of employees spread across offices in Santa Clara, San Francisco, Seattle, Bangalore, London, Melbourne, and Tokyo. Our core values are openness, honesty, and transparency, and we purposely developed our open desk layouts and large meeting spaces to support and promote partnerships, collaboration, and teamwork. From catered lunches and office celebrations to employee recognition events and social professional groups such as the Awesome Women of Netskope (AWON), we strive to keep work fun, supportive and interactive.Visit us at Netskope Careers and follow us on Twitter @Netskope and Facebook.
+
+As a member of the Advanced Development team you will work cross-functionally to build state-of-the-art cloud platforms to support our growing product portfolio.
+
+#LI-NN1",4.2,"Netskope
+4.2",Buenos Aires,-1,1001 to 5000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Machine Learning Engineer,-1,"About IPSY:
+
+IPSY is the largest beauty subscription in the world, with over 3 million monthly members, and the first brand to combine a rich community platform with a highly personalized commerce experience. Headquartered in San Mateo, with offices in New York, Santa Monica, and Buenos Aires, IPSY brings together a diverse group of rule-breaking thinkers and creative problem solvers with a penchant for getting things done. From Marketing and Media to Engineering and Operations, we stand together to celebrate individuality and inclusivityand were just getting started.
+
+About the Role:
+We are looking for a Machine Learning Engineer to join our team. As a Machine Learning Engineer, you will be responsible for developing novel ML models for both internal tools as well as to delight our customers. You will also partner with ML Platform engineers to productionalize your models for continuous improvement.
+
+
+
+
+:
+
+We are an equal opportunity employer who celebrates diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by federal, state, or local laws.",3.7,"IPSY
+3.7",Buenos Aires,-1,201 to 500 Employees,2011,Company - Private,Beauty & Personal Accessories Stores,Retail,Unknown / Non-Applicable,-1
+Data Engineer (Buenos Aires),-1,"Overview
+Rise Interactive (http://www.riseinteractive.com), a rapidly growing full-service interactive advertising agency, is looking to hire a Data Engineer for our Innovation team in our Buenos Aires office! We are looking for a self-directed, detail-oriented individual who thrives in an entrepreneurial culture as we grow our quickly expanding client base.
+Summary and Scope
+Tired working on the same thing each day and then trapped by red tape when an opportunity to use a new technology comes along? As a Data Engineer at Rise, you will be part of a team of talented engineers that builds and maintains Connex which is our industry leading, multi-channel media optimization platform. Help turn high-level business missions into fully architected end-to-end solutions involving heterogeneous sources, performant ETL application, integrated schema designs, and efficient data access patterns. Are you up for the challenge of being part of a company that continues to lead and disrupt the digital marketing landscape with its technology and innovation?",3.2,"Rise Interactive
+3.2",Buenos Aires,-1,201 to 500 Employees,2004,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),-1
+Data Engineer (SSr/Sr),-1,"Somos etermax, una compañía internacional de tecnología fundada en Argentina en 2009. Creamos aplicaciones que entretienen, conectan y agregan valor comercial alrededor de todo el mundo. Conectamos personas entre sí, a los usuarios con las marcas y a los negocios con el éxito a través de nuestras unidades de Gaming, In Game Advertising e AI Labs. Nuestro objetivo es encontrar soluciones a los desafíos humanos del presente y del futuro. Combinamos tecnología y creatividad, datos y experimentación, para abrir nuevos caminos. Nadie nos puede decir cómo, porque vamos adelante.
+Experimentá tu próximo rol:
+En etermax, un Data Engineer trabaja junto al equipo para seguir creando nuevos productos, asegurando la calidad internacional y superando los estándares de la industria. El rol incluye:
+Diseño y mantenimiento de la arquitectura actual: ¡tenemos muchas bases distintas, y todas en la nube de Amazon!",4.3,"etermax
+4.3",Villa Urquiza,-1,201 to 500 Employees,2009,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer | DIGITAL,-1,"Senior Data Engineer
+
+Are you passionate about a future that exceeds your expectations? Here, at AlixPartners your passion becomes your career. We work in smaller and more senior teams that bring deep industry and functional knowledge to our clients. You will sit shoulder-to-shoulder with C-Level executives to address the issues that sit at the top of their agendas - and often become front-page news.
+
+If you join our practice, you will work with financially secure, under-performing and distressed companies across a variety of urgent, high impact situations. Our elite professionals are recognized experts in their respective fields, bringing to bear their skills and experience to craft measurable, improved outcomes for our clients.
+
+In this role, you will have the chance to create ELT/ETL workflows, scripts, visualizations, and statistical models while taking responsibility for the design, build, test, execution and support of data-related activities including but not limited to integration, profiling, cleansing, and visualizing. The ideal candidate will have a detailed understanding of the underlying data and data structures of multiple systems to allow in depth analysis of existing and potential data insights.
+
+
+
+This description is not designed to encompass a comprehensive listing of required activities, duties or responsibilities.
+
+AlixPartners is a results-driven global consulting firm that specializes in helping businesses successfully address their most complex and critical challenges. You can learn more about our Culture and Career Development opportunities,",4.7,"AlixPartners
+4.7",Buenos Aires,-1,1001 to 5000 Employees,1981,Company - Private,Consulting,Business Services,$1 to $2 billion (USD),-1
+Consultor Ingeniero de Datos (Data Engineer),-1,"Nos encontramos en la búsqueda de un INGENIERO DE DATOS (Data Engineer) para importante proyecto deseamos incorporar un consultor con experiencia en en diseño y desarrollo de aplicaciones basadas en ecosistemas distribuidos (Hadoop, Spark, y tecnologías complementarias) para uno de nuestros clientes, gran empresa del sector bancario.
+
+QUE VALORAMOS
+
+Experiencia
+
+> y/ó conocimiento del procesamiento y modelado de datos, algoritmos y arquitectura de datos.
+
+
+
+
+en plataformas Cloud e híbridas.
+
+Conocimientos deseables
+
+
+
+
+
+
+Formación
+
+
+
+ASIGNACION = 100% Remoto",-1,Mariana Panebianco,San Cristóbal,-1,-1,-1,-1,-1,-1,-1,-1
+Sr Data Engineer,-1,"Nos encontramos en la búsqueda de un Data Engineer que brindará soporte al negocio, clientes internos, apuntalando la toma de decisión basada en datos. Se involucrará en proyectos diversos y en la construcción del modelo de datos de la compañía.
+
+Los DESAFIOS de la posición serán:
+Creación de pipelines ETL con Azure Ecosystem como Azure Data Factory.
+Creación de pipelines, actividades, conjuntos de datos y flujos de datos de simples a complejos
+Diseño de un modelado de datos en Azure Analysis Services
+Análisis de los datos subyacentes y el flujo de datos.
+
+InvertirOnline fue fundada en Mayo del 2000 y en 2018 fue adquirida por el Grupo Supervielle. Es la primer Fintech de Argentina consolidandose como el primer sitio dedicado y especializado en Trading Online del pais.
+Ofrece una propuesta única, que integra toda la actualidad en información financiera, el asesoramiento de un equipo de profesionales y la posibilidad de administrar ahorros y operar online una gran variedad de instrumentos financieros a través de internet.
+Nuestro proposito
+Mejorar la calidad de vida de las personas aumentando el valor de sus ingresos
+Nuestra Visión
+Ser la principal plataforma de soluciones financieras integrales en América hispanoparlante
+
+Requisitos
+
+Ingeniero en Sistemas avanzado o graduado
+Experiencia previa en plataformas cloud
+Es importante contar con habilidad para desarrollar código SQL, Python y Spark
+Conocimiento preferente de Logic Apps, Azure Function apps y PowerShell Workflow
+Conocimiento preferente de Azure Data Factory.
+
+Beneficios
+
+Prepaga OSDE
+Home Office
+Club La Nación
+Gimnasio
+Capacitación constante
+Día de Cumpleaños libre
+Excelente clima laboral, desarrollo en un ámbito joven, dinámico y profesional.",4.2,"InvertirOnline
+4.2",Argentina,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Senior Backend/Data Engineer,-1,"AgileEngine is looking for a Senior Backend/Data Engineer to develop back-end/data engineering solutions. The ideal candidate's prior work experience reflects high standards for engineering with proven capabilities. The candidate possesses the ability to take on important business challenges and execute them with precision and quality.
+
+Requirements
+4+ years experience in software development
+BS in Computer Science or equivalent practical experience
+Strong SQL knowledge
+Knowledge of SQL Server or other relational database management systems (Oracle, PostgreSQL, MySQL)",4.8,"AgileEngine
+4.8",Buenos Aires,-1,201 to 500 Employees,2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer Ssr,-1,"En RH VISIÓN, tenemos oportunidades en GRANDES empresas, empresas que buscan sumar talentos y acompañar sus carreras y desafíos laborales! Acompañamos tu crecimiento, acompañamos lo que buscas.
+Buscamos un Data Engineer que se encargará de expandir y optimizar la arquitectura, el flujo y la recopilación de datos para equipos multifuncionales.
+
+Entre sus tareas estarán:
+Relevar información de necesidad del cliente, la infraestructura, fuente de base de datos y el ecosistemas de usuarios finales.
+Diseñar, implementar y mantener las canalizaciones (pipelines) de datos necesarias para una extracción, transformación y carga óptimas de datos de una amplia variedad de fuentes de datos (ETL).
+
+Valoramos:
+
+Es una GRAN oportunidad!",1.0,"RH Vision
+1.0",Córdoba,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+DATA ENGINEER 072,-1,"Queremos que seas parte del Team de uno de los principales jugadores de Fintech en Argentina. Sumaremos una persona proactiva con capacidad de Analizar, diseñar y realizar proyectos y estadísticas que requieran las áreas internas de la empresa, permitiendo un proceso ágil de toma de decisiones.
+Tendrá bajo su responsabilidad la manipulación de data de grandes volúmenes, ingesta de la misma, configuración de un centro de datos que tiene que homogeneizar de información de múltiples sistemas y también para un producto en particular, realizará dentro del motor decisiones, el desarrollo de las implementaciones de los modelos.
+
+Fintech Factory creadora de soluciones financieras enfocados en la experiencia de usuario con mas de 10 años de experiencia en el mercado.
+Dedicados a crear servicios de financiamiento online en mercados emergentes apalancados en el uso de la tecnología y ciencia de datos logrando soluciones de fondeo inmediato en diferentes mercados de la region.
+Uno de las principales unidades de negocio, se enfoca en brindar créditos personales a corto plazo y el fondeo casi instantáneo.
+
+Requisitos
+
+Deberá contar con solidos conocimientos en Python y AWS
+JavaScript, Node JS, React , Airflow ,PHP, Laravel (no excluyente)
+
+Beneficios",-1,Staff RH,Argentina,-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+Quality Assurance Engineer,-1,"We believe that Quality Assurance is crucial to creating a great product, that’s why QA and development are completely integrated at Avature. Our QA Engineers are actively involved in every step of the development process, from feature planning to release, working hand-in-hand with the product and development teams.
+
+As we work with agile methodologies, automation is a big part of our work, which is currently based on a very mature automation infrastructure and practices.
+
+Your challenges and objectives:
+Gaining full understanding of product specifications.
+Gaining thorough knowledge of our complex and highly configurable platform.
+Working hand-in-hand with all company teams, understanding their different needs.",3.9,"Avature
+3.9",Buenos Aires,-1,501 to 1000 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+Azure Data Engineer,-1,"Busqueda: Data Engineer
+LATAM5411 - Reclutamiento Especializado
+Por intermedio de LATAM5411, importante empresa de marketing y publicidad digital ubicada en la zona de Palermo, se encuentra en la búsqueda de un Data Engineer.
+Responsabilidades:
+El diseño, creación y mantenimiento de pipelines de datos,
+cumpliendo con los requisitos necesarios de latencia, volumen y periodicidad.
+Adicionalmente, poder implementar pipelines para medir y mejorar la calidad de los datos de origen.",4.4,"LATAM5411
+4.4",Buenos Aires,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Software Engineer AMTS,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.
+Join our Mulesoft teams to help build the world’s first-class execution engine that powers thousands of Integrations and APIs worldwide of most important companies on their mission critical applications.",4.4,"Salesforce
+4.4",Pilar,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Fullstack Engineer,-1,"MURAL is on a mission to inspire and connect imagination workers globally.
+
+
+MURAL is a digital workspace for visual collaboration that connects over 50 percent of the Fortune 100. Teams at global enterprises including IBM, USAA, E-Trade, Intuit, SAP, Atlassian, Autodesk, and GitHub embrace visual collaboration to run more productive meetings and workshops. This leads to a more creative, engaging, and fun way of working together, all in a welcoming, simple-to-use online space.
+
+Headquartered in San Francisco, California, MURAL employs over 300 people around the world. In 2020, MURAL raised $118M in a series B round of financing and are working hard to take MURAL to the next level.",4.8,"MURAL
+4.8",Buenos Aires,-1,201 to 500 Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Senior Data Engineer,-1,"About the team
+
+
+The Data Pipelines Team at Wildlife is responsible for acquiring, cleansing and transforming the data the whole company uses: our data is used by the executive team to make strategic decisions, by the product team to improve our games, by the user acquisition team to improve the reach of our games and so on. Since the beginning of 2019, we undertook the mission of modernizing ourselves and our product to make sure that we will be able to scale at the same pace Wildlife does and that we will be able to adjust ourselves to the ever changing business needs the company has.
+
+In BA, we'll be focused on developing a brand new commercial product with the following challenges:
+
+- Machine learning based service handling +1 Million QPS, 1-digit ms response time.
+
+
+
+
+
+
+We welcome people from all backgrounds who seek the opportunity to help build the best gaming company, where everyone thrives.",3.9,"Wildlife Studios
+3.9",Buenos Aires,-1,501 to 1000 Employees,2011,Company - Private,Internet,Information Technology,$25 to $50 million (USD),-1
+Senior Data Engineer Lead,-1,"Senior Data Engineer Lead
+Job Description
+The Senior Data Engineer Lead will play a pivotal role in operationalizing the most-urgent data and analytics initiatives for Kimberly-Clark’s digital business initiatives with our IoT and Smart Products. The bulk of the Data Engineer’s work would be in designing, building, managing and optimizing data pipelines and then moving these data pipelines effectively into production for key data and analytics consumers.
+Key Accountabilities:
+This role will provide you the opportunity to lead key activities to progress in your career, these responsibilities include some of the following:
+Argentina-Buenos Aires
+Employee
+Regular
+Full time",4.0,"Kimberly-Clark
+4.0",Buenos Aires,-1,10000+ Employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1
+"Data Engineer SSr ( ASAP), plataforma SAS",-1,"Importante empresa de servicios seleccionara
+Data Engineer SSR.
+El perfil debe poseer conocimiento en la plataforma SAS Data Integration (desarrollo de ETL), conocimientos medios de SQL y al menos un año de experiencia en integración de datos
+Desarrollos de procesos de integración de datos sobre Plataforma SAS
+Pruebas unitarias e integrales
+Documentación de procesos
+Conocimientos sobre Plataforma SAS Data Integration
+Experiencia de al menos 1 año en integración
+
+Requisitos
+
+Beneficios
+
+Remoto en Pandemia, luego se ve con el cliente
+Exelentes beneficios
+Relacion de dependencia con el cliente",-1,IT Solutions Group,Argentina,-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+Senior Data Engineer (Buenos Aires),-1,"Overview
+Rise Interactive (http://www.riseinteractive.com), a rapidly growing full-service interactive advertising agency, is looking to hire a Senior Data Engineer for our Innovation team in our Buenos Aires office! We are looking for a self-directed, detail-oriented individual who thrives in an entrepreneurial culture as we grow our quickly expanding client base.
+Summary and Scope
+Tired working on the same thing each day and then trapped by red tape when an opportunity to use a new technology comes along? As a Senior Data Engineer at Rise, you will be part of a team of talented engineers that builds and maintains Connex which is our industry leading, multi-channel media optimization platform. Help turn high-level business missions into fully architected end-to-end solutions involving heterogeneous sources, performant ETL application, integrated schema designs, and efficient data access patterns. Are you up for the challenge of being part of a company that continues to lead and disrupt the digital marketing landscape with its technology and innovation?",-1,Rise Interacitve - Neuvoo/Talent.com,Buenos Aires,-1,-1,-1,-1,-1,-1,-1,-1
+ETL-SQL Developer / Data Integration Engineer,-1,"We are looking for a Developer who will be responsible for the maintenance, evolution and development of an Insurance Group Data Hub.
+
+You should be capable of productive collaboration with the development team as well as administrators and clients to ensure overall system consistency. You should also be well organized and be able to communicate with a high level of fluency in the English language.
+Developer Responsibilities:
+Create and support stable, reliable and effective databases
+Ensure that the data architecture is scalable and maintainable
+Ensure performance, security, and availability of databases",-1,Plecosystems,Buenos Aires,-1,1 to 50 Employees,-1,Other Organization,Consulting,Business Services,Less than $1 million (USD),-1
+Machine Learning Engineer,-1,"If you are interested please apply with your resume, GitHub page (if available), and expected hourly rate (in USD).SpineZone is looking for Machine Learning Engineer to work with on a variety of mission-critical projects related to our online platform and other proprietary technology and systems. We are looking for somebody who will be part of engineering team to build infrastructure and tools for exciting new technologies that will shape our product.
+What You Will Do:
+Broad experience and knowledge in machine/deep learning and computer vision.
+Work on cutting edge problems in efficient data annotation building ML models that assist humans in reducing labeling efforts without sacrificing quality.
+Use techniques from statistical analysis and predictive modeling to help decipher user behavior models.",-1,SpineZone,Buenos Aires,-1,-1,-1,-1,-1,-1,-1,-1
+Data Engineer/Big Data Engineer,-1,"Buscamos un candidato para la posicion de Data Engineer. Nivel Ssr/Sr
+Requerimos experiencia en diseño y construccion de procesos ETL y tablas analiticas.
+Base de datos: Teradata y SQL Server (desarrollo con herramienta SSIS).
+Valoramos formación academica en sistemas o carreras afines. Experiencia trabajando en rubro finanzas, soluciones de pagos, etc.
+
+Se ofrece: puesto efectivo directo con importante empresa financiera. Desarrollo profesional + beneficios corporativos.
+Unicacion: Parque Patricios",3.5,"PROGRES S.A.
+3.5",Buenos Aires,-1,51 to 200 Employees,1993,Company - Private,-1,-1,$1 to $5 million (USD),-1
+Lead Data Engineer (Buenos Aires),-1,"Overview:
+Rise Interactive (http://www.riseinteractive.com), a rapidly growing full-service interactive advertising agency, is looking to hire a Lead Data Engineer for our Innovation team in our Buenos Aires office! We are looking for a self-directed, detail-oriented individual who thrives in an entrepreneurial culture as we grow our quickly expanding client base.
+
+
+Summary and Scope:
+Tired working on the same thing each day and then trapped by red tape when an opportunity to use a new technology comes along? As a Lead Data Engineer at Rise, you will lead and be part of a team of talented engineers that builds and maintains Connex which is our industry leading, multi-channel media optimization platform. Help turn high-level business missions into fully architected end-to-end solutions involving heterogeneous sources, performant ETL application, integrated schema designs, and efficient data access patterns. Are you up for the challenge of being part of a company that continues to lead and disrupt the digital marketing landscape with its technology and innovation?",-1,Rise Interacitve - Neuvoo/Talent.com,Buenos Aires,-1,-1,-1,-1,-1,-1,-1,-1
+Data Engineer - Salario en $USD,-1,"We are looking for a Data Engineer to be part of the team of an American Company, where the big data space is growing rapidly, beyond the data pipeline, you will also be instrumental in bringing the data-driven products and features to life and helping build the future of the company.
+You will also have the opportunity to work with the product teams, building models and APIs to drive new features delivers analysis to further improve engagement in existing features, and empowers our business with real-time insights to drive growth in market share, engagement, and revenue. We see 1 trillion events per year and process 10TB of data daily.
+The challenges of this position are:
+Manage & improve a Hadoop-based data pipeline (EMR / Cloudera, Impala, Airflow, among others)",-1,Future Manager Argentina,Argentina,-1,1 to 50 Employees,-1,Subsidiary or Business Segment,-1,-1,Less than $1 million (USD),-1
+Data Engineer - Excelente Remuneracion,-1,"Responsibilities:
+Work with business users to understand business requirements
+Translate business requirements to technical designs
+Implement technical architectures using best practices
+Design and implement highly scalable, resilient, available and maintainable systems
+Put implementations into production and provide production support
+Mentor junior engineers
+Qualifications",-1,DaBrein Solutions,Buenos Aires,-1,Unknown,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+Senior Data Engineer,-1,"Versent is an Australian-born technology company, focused on architecting, building & operating cloud native applications, data streams, platforms and services. Our solutions are centred around AWS and best of breed technology. From a stand-still start in 2014, we've grown to over 380 family members both locally and internationally. With a diversified offering in professional services, managed services and product, we are poised for significant growth in 2021.
+
+Versent is an Australian-born technology company, focused on architecting, building & operating cloud native applications, data streams, platforms and services. Our solutions are centred around AWS and best of breed technology. From a stand-still start in 2014, we've grown to over 360 family members both locally and internationally. With a diversified offering in professional services, managed services and product, we are poised for significant growth in 2020.
+Normal",3.8,"Versent
+3.8",Argentina,-1,201 to 500 Employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Full Stack Engineer - Mulesoft,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+As a Software Engineer at MuleSoft, a Salesforce Company, you will work on a small SCRUM team to drive the development of modular, composable, and/or maintainable microservices to expose the functionality of the world’s leading integration platform to customers and allow us to scale platform usage around the world. Our teams own mission-critical aspects of a rapidly growing, globally distributed platform and, as such, you will have an incredible amount of impact on the current state and future direction of our product, with visibility throughout the organization and a significant opportunity to take ownership
+
+Some of Our Current Projects
+Join our Mulesoft teams to help the world leading execution engine that powers thousands of Integrations and APIs worldwide of most important companies on their mission critical applications.",4.4,"Salesforce
+4.4",Buenos Aires,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Data Engineer (Buenos Aires),-1,"Overview
+
+
+Rise Interactive (http://www.riseinteractive.com), a rapidly growing full-service interactive advertising agency, is looking to hire a Data Engineer for our Innovation team in our Buenos Aires office! We are looking for a self-directed, detail-oriented individual who thrives in an entrepreneurial culture as we grow our quickly expanding client base.
+
+Summary and Scope
+
+
+Tired working on the same thing each day and then trapped by red tape when an opportunity to use a new technology comes along? As a Data Engineer at Rise, you will be part of a team of talented engineers that builds and maintains Connex which is our industry leading, multi-channel media optimization platform. Help turn high-level business missions into fully architected end-to-end solutions involving heterogeneous sources, performant ETL application, integrated schema designs, and efficient data access patterns. Are you up for the challenge of being part of a company that continues to lead and disrupt the digital marketing landscape with its technology and innovation?
+
+
+
+We operate a cross-functional team that specializes when needed but aims to have everyone able to contribute. Duties of the Data Engineer include:",-1,Rise Interacitve - Neuvoo/Talent.com,Buenos Aires,-1,-1,-1,-1,-1,-1,-1,-1
+Tech Lead Data Engineer,-1,"Somos Naranja X, el brazo fintech de @Naranja que ofrece soluciones enfocadas en Pagos, Cobros y Ahorros, con una oferta para individuos y otra para comercios tanto para clientes Naranja como para el mercado abierto.
+Queremos sumar personas a nuestros equipos que sean apasionados por la tecnología y la innovación. Apuntamos a personas con muchas ganas de aportar nuevas ideas, con una gran mirada analítica, que se sientan cómodos en un ambiente dinámico y en pleno crecimiento! Te sumás?
+
+Principales desafíos:
+Definir los procesos de ingesta, limpieza, transformación y validación de la
+información.
+Liderar el desarrollo de la infraestructura de datos de NaranjaX diseñando y
+construyendo sistemas de procesamiento de datos escalables, en un contexto
+crecimiento 10X
+amplia variedad de fuentes.
+mantener sistemas que utilizan los datos de la empresa de manera escalable, así
+como para produccionar y optimizar los modelos
+la calidad y consistencia de los datos proponiendo soluciones para mejorarlos.
+
+Requisitos
+
+
+backend y datos.
+datos.
+Athena, Redshift, EMR, etc.).
+
+Apache NiFi y Apache Airflow.
+Beneficios
+
+Buscamos un team player, con motivación para superarse y con capacidad para ver el big
+picture garantizando la escalabilidad.
+Es importante la capacidad para priorizar, comprometerse con un objetivo y performance
+del flujo de información.
+Te proponemos ser protagonista de tu desarrollo, la posibilidad de crecer y co - crear la
+estrategia de la compañía.
+¡Nos diferenciamos por nuestra cultura y filosofía de trabajo, sumate vos también a vivir
+experiencias únicas en una de las mejores compañías para trabajar del país!
+
+Naranja X se lanza en 2019 buscando robustecer el ecosistema de Naranja y del grupo Galicia. Esto nos permite transitar nuestros primeros pasos como una organización nueva que construye sus productos y cultura detrás de una marca querida y cercana, además de ser uno los mejores lugares para trabajar en Latinoamérica.
+A través de nuestra app queremos simplificarle la vida a las personas permitiéndoles transferir, pagar y recibir pagos en el acto desde su celular, cargar su tarjeta de transporte en las principales ciudades del país y acceder a una tarjeta VISA tanto virtual como física!
+Estamos basados en Buenos Aires, donde nuestro equipo de más de 200 personas trabaja para crear soluciones digitales de rápida adopción y escalabilidad.",3.3,"Naranja X
+3.3",Argentina,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+JavaScript Tools Engineer,-1,"The database market is extensive (the IDC estimates it to be $89B+ by 2024!) and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.
+
+MongoDB is seeking an engineer to develop and maintain applications that streamline support processes and accelerate case resolution. In particular, the engineer will participate in the full development lifecycle of web applications and dashboards used by the Customer Engineering organization and MongoDB customers. This includes developing, testing and deploying custom solutions using a variety of technologies, with a focus on modern web JavaScript technologies (React, Typescript, etc.).
+
+
+
+The right candidate for this role will have:
+
+
+The Tools Engineer will be successful in this role when they can execute the following strategic tasks:
+To drive the personal growth and business impact of our employees, we're committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees' wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it's like to work at MongoDB, and help us make an impact on the world!
+
+*MongoDB is an equal opportunities employer.*",4.5,"MongoDB
+4.5",Buenos Aires,-1,1001 to 5000 Employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Data Engineer - Importante Empresa de Entretenimientos - Palermo,-1,"Seleccionamos un Data Engineer que cuente con al menos 3 años de experiencia en puestos similares, tendrá como objetivo brindar soporte al negocio apuntalando la toma de decisión basada en datos.
+Serán sus principales tareas
+Definir e implementar modelos de datos.
+Gestionar las tareas ETL y en el DataWarehouse
+Brindar soporte al cliente interno colaborando con la toma de decisiones basado en datos.
+Elaborar reportes con PowerBi.
+Seleccionamos Data Engineer para sumarse al equipo de una Importante Empresa de Entretenimientos ubicada en Palermo,
+
+Requisitos
+
+Formación en área de sistemas.
+Manejo avanzado de PowerBI, su arquitectura y funcionamiento.
+Amplio y avanzado conocimiento de lenguajes de programación de bases de datos (SQL, Store Procedure)
+Manejo de estructuras de datos de sistemas actuales y confeccionar estructuras de datos del DataWarehouse .
+Conocimientos de Python y .Net para construir los ETL.
+Conocimientos sobre tecnologías Cloud AWS y Azure ( deseable)
+
+Beneficios
+
+Se ofrece un importante desafío profesional en una empresa con un excelente clima laboral, con importantes condiciones de contratación y beneficios.",-1,Ipsum HR,Buenos Aires,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Software Engineer- Heroku,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+Heroku, a Salesforce company, has immediate opportunities for extremely talented Distributed Systems Software Developers who want their lines of code to have significant, measurable and positive impact for users, the company's bottom line and the industry. You will need deep experience with concurrency, large scale systems, proficiency with solving real-world data management challenges, a strong understanding of how to architect solutions that are highly available, and a proven ability to design, develop, and optimize the core back-end systems. This role will encompass architecture, design, implementation, and testing to ensure we build products right and release them with high quality. In addition, we embrace total ownership of systems, and are responsible for operating and monitoring the components we write.
+Our Technology, Marketing & Products Engineering team is responsible for innovating and maintaining a massive distributed systems engineering platform that ships hundreds of features to production for tens of millions of users across all industries every day. Our users count on our platform to be highly reliable, lightning fast, supremely secure, and to run their business-critical applications.",4.4,"Salesforce
+4.4",Buenos Aires,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Software Engineer,-1,"MURAL is on a mission to inspire and connect imagination workers globally.
+
+
+MURAL is a digital workspace for visual collaboration that connects over 50 percent of the Fortune 100. Teams at global enterprises including IBM, USAA, E-Trade, Intuit, SAP, Atlassian, Autodesk, and GitHub embrace visual collaboration to run more productive meetings and workshops. This leads to a more creative, engaging, and fun way of working together, all in a welcoming, simple-to-use online space.
+
+Headquartered in San Francisco, California, MURAL employs over 300 people around the world. In 2020, MURAL raised $118M in a series B round of financing and are working hard to take MURAL to the next level.
+
+
+We are looking for a Technical Support Engineer to provide enterprise-level assistance to our customers with technology. Our Engineer will evaluate technical problems and drive down to root causes in order to implement sustainable countermeasures This is not a position to assist or support customers but to build custom solutions for our CX team to help them on a daily basis.
+
+
+
+We take full ownership of the solutions we create. Therefore you will be involved in various software engineering and analyst roles.
+
+
+We are looking for a candidate with 3+ years of experience in a Business Analyst role, who has attained a Graduate degree in Computer Science, Business Administration, Informatics, Information Systems or another quantitative field.",4.8,"Salesforce
+4.4",Buenos Aires,-1,201 to 500 Employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Software Engineer - Anypoint Studio,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+MuleSoft, a Salesforce Company, sits at the heart of all convergent technologies trends (SaaS, big data, APIs, microservices, etc.), and our developers are tackling some of the most interesting problems in technology today.
+The Anypoint Studio team is looking for senior software engineers to have an incredible amount of impact on the current and the next generation of Mulesoft’s flagship IDE which is used across all our customers to build Mule applications. Our vision is to provide an all-in-one experience supporting API & integration development, across the entire application lifecycle, on-premises and in the cloud.
+MuleSoft Software Engineers come from a wide variety of backgrounds and work anywhere in the stack, but all care about craftsmanship in their code, are naturally curious self-learners, and build the right solution for the long term rather than the right solution for right now.",4.4,"Salesforce
+4.4",Buenos Aires,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Software Engineer,-1,"We are seeking a unicorn to join our industry-leading technology team co-founded by the former CTO of Salesforce.com. This position is for our growing engineering team in our Buenos Aires office, located at Area Tres El Salvador in Palermo.
+
+Our technology stack includes Java server technologies, NoSql, Github, single-­page JavaScript web techniques (jQuery, React, and Backbone), and patent­ pending analytical methods on top of MongoDB and AWS.
+
+Desired Skills & Expertise
+Proficiency with scalable server­-side Java; ideally in the design of mission critical enterprise applications
+Familiarity with data driven and data focused applications, data scalability techniques; ideally a knowledge of SQL as well as modern NoSql techniques
+
+
+We are a team of passionate hospitality and technology professionals delivering a modern platform to hoteliers in over 60 countries. Our solutions address the biggest problems faced by the hospitality industry by simplifying distribution complexity and optimizing profitability with unique and powerful applications that increase conversion, guest loyalty, operational efficiency and revenue. Our goal is to become the most trusted, effective and widely used hotel technology company in the world. Founded in 2012, Duetto is headquartered in San Francisco with offices in Las Vegas, London, Singapore and Buenos Aires. Duetto is backed by leading investors: Warburg Pincus, Accel Partners, Icon Ventures, and Battery Ventures. If you want to be a part of a fast-growing company, working with amazing people tackling big challenges in a massive industry, then Duetto is looking for you.",4.6,"Duetto
+4.6",Buenos Aires,-1,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+Data Scientist,-1,"About the vacancy
+
+
+Our client is an on-demand delivery startup. The company provides opportunities to learn, grow, and help leading businesses and public-sector institutions address their most critical challenges.
+
+The project is in the early stages of development. It is going to be a long-term project.
+
+The onsite team consists of at least 15 people (back-end devs, front-end devs, project manager, QA Engineer, Designers, etc.). They use SCRUM methodology.",4.9,"Duetto
+4.6",Buenos Aires,-1,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1
+Back End Engineer - Mulesoft,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+As a Software Engineer at MuleSoft, a Salesforce Company, you will work on a small SCRUM team to drive the development of modular, composable, and/or maintainable microservices to expose the functionality of the world’s leading integration platform to customers and allow us to scale platform usage around the world. Our teams own mission-critical aspects of a rapidly growing, globally distributed platform and, as such, you will have an incredible amount of impact on the current state and future direction of our product, with visibility throughout the organization and a significant opportunity to take ownership
+
+Some of Our Current Projects
+Join our Mulesoft teams to help the world leading execution engine that powers thousands of Integrations and APIs worldwide of most important companies on their mission critical applications.",4.4,"Salesforce
+4.4",Buenos Aires,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Data Engineer Ssr/Sr,-1,"En Jam City Argentina seguimos en la búsqueda de un Data Engineer Ssr/Sr:
+
+Integrado al área de Analytics, el puesto requiere de la realización de tareas que involucran análisis, diseño y desarrollo de procesos de ETL en plataformas de Big Data que surgen del ecosistema de datos corporativos que afectan principalmente a:
+
+Facturación de la compañía.
+Flujo de bienes virtuales en las economías de los juegos.
+Proyecciones de ingresos.
+Estimación de duración de los jugadores (lifetime).
+Comunicación de métricas operacionales de juegos tipo match-3 y city-builders.
+
+Enviar CV a: busquedas@jamcity.com",4.0,"Jamcity
+4.0",Buenos Aires,-1,501 to 1000 Employees,2010,Company - Private,Video Games,Media,Unknown / Non-Applicable,-1
+QA Engineer,-1,"This position will involve testing data coming from different companies like Facebook, Google Ads, Salesforce, etc., so it is really helpful to have someone familiar working with APIs and testing using a tool like Postman.
+We need someone that is detail oriented, as changes to the code can affect data for existing customers. Verifying that data has not changed and that all previous functionality still works is a big part of the job, but can feel tedious and time-consuming for someone that does not enjoy working with the detail
+
+QA is not an afterthought. We expect our testers to be involved in the planning, execution and rollout of bug fixes and new features.
+
+Our client is simple business intelligence (BI) created specifically for growing companies. We are making BI accessible and affordable so that anyone can get answers unique to their business.
+With 140+ data connections you can blend all of your data for true insights. Don’t worry about having time to build reports, Dataset Playbooks remove the need clean and prep data. Use TV Mode and the app to monitor live metrics so you’re always making the best decisions.
+
+They help everyone use data to grow their business. We provide ETL, warehousing, visualization and sharing technologies to help everyone know what to do next, with data.
+
+Requisitos
+
+
+Finding and verifying newly reported bugs involving both core functionality and upcoming featuresWorking closely on a team with Developers and Product Managers, killing bugs and releasing high quality features
+Performing ad-hoc and regression testing to improve quality in the app
+Testing API requests made to data sources with tools like Postman
+Verifying data integrity when changes are made to an API
+
+WHAT YOU NEED TO GET THE JOB DONE
+
+Excellent written and verbal communication skills for working with real people
+Genuine attitude of ownership - knowing how the app works, and when it breaks
+Creative problem-solving skills, including the ability to learn quickly and work in a fast-paced environment with quick turnaround
+
+WHAT YOU’LL LOVE ABOUT US
+
+Deep company culture of caring about the customer and each other
+Active learning environment with time and resources to grow your skills
+Genuine work/life balance
+We are a small, scrappy team where every member has a big impact
+
+Beneficios
+
+Unlimited PTO
+Medical Insurance
+Dental Insurance
+Parental Leave",4.2,"Schmitman HR
+4.2",Argentina,-1,1 to 50 Employees,2015,Private Practice / Firm,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1
+"Software Engineer, Backend",-1,"Medallia’s mission is to help companies win through customer experience. The world’s best-loved brands trust Medallia’s Experience Cloud™, which embeds the pulse of the customer in an organization and empowers employees with the real-time customer data, insights, and tools they need to make every experience great. Named a leader in the most recent Forrester Wave and ranked in the 2018 Forbes Cloud 100 list, Medallia is growing quickly, with a global footprint that spans Silicon Valley, Austin, New York, Washington DC, London, Paris, Sydney, Buenos Aires, and Tel Aviv. Here, we value people for each of the aspects that make them whole. We believe that people should not be defined only by a job title—nobody is ""just an engineer"" or ""just a salesperson."" We are each partners, parents, children, siblings, friends, and former classmates. We have different backgrounds and we celebrate different cultures. And, just like our product, we honor each of the experiences that build our people.
+
+At Medallia we hire the whole person, not just a part of them.",4.0,"Medallia, Inc.
+4.0",Buenos Aires,-1,1001 to 5000 Employees,2001,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1
+Senior Data Engineer (AWS) - DevOps,-1,"Rappi is the game changer startup for last mile delivery in Latam. With more than 100K orders daily, we are making easy our customers lives by offering all the services available in their cities and delivering it in less than 30 minutes.
+
+We are looking for a Senior Data Engineer who will be responsible for building, improving and maintaining a scalable data pipeline infrastructure required for extraction, transformation, and loading of terabytes of data from thousands of sources to our analytics platform.
+
+You will have the opportunity to apply cutting-edge technologies in large scale environment with a challenging rapid growth pace, taking ownership of both internal and external services, and applying all your skills to make an impact on the whole company.
+
+You will be working with a skilled group of international tech specialists, on a high pressure hard-work environment.",3.6,"Rappi
+3.6",Buenos Aires,-1,1001 to 5000 Employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Senior QA Engineer,-1,"About Netskope
+
+
+Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Netskope to redefine Cloud, Network and Data Security.
+Since 2012, we have built the market-leading cloud security company and an award-winning culture powered by hundreds of employees spread across offices in Santa Clara, San Francisco, Seattle, Bangalore, London, Melbourne, and Tokyo. Our core values are openness, honesty, and transparency, and we purposely developed our open desk layouts and large meeting spaces to support and promote partnerships, collaboration, and teamwork. From catered lunches and office celebrations to employee recognition events and social professional groups such as the Awesome Women of Netskope (AWON), we strive to keep work fun, supportive and interactive.Visit us at Netskope Careers and follow us on Twitter @Netskope and Facebook.
+
+
+At Netskope, our world class QE organization is built with engineers who love to write code to test, have the aptitude to find ways to break things, know how a cloud service should work and can build automation for day to day tasks that machines can run. Our SDETs build automation tools to do functional, regression, security, performance and load/scale testing of our services and clients. Your contributions will test software that large Fortune 500 enterprises will use and rely upon everyday.
+
+
+
+You love testing highly dynamic software and pushing it to the max and beyond for strength and resilience. You are happily challenged when faced with solving complex problems. You love digging deep into the product to find its breaking points. You love the ""aha!"" moment when you find the repro to a bug.
+
+#LI-NN1",4.2,"Netskope
+4.2",Buenos Aires,-1,1001 to 5000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Back End Engineer - Mulesoft,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+As a Software Engineer at MuleSoft, a Salesforce Company, you will work on a small SCRUM team to drive the development of modular, composable, and/or maintainable microservices to expose the functionality of the world’s leading integration platform to customers and allow us to scale platform usage around the world. Our teams own mission-critical aspects of a rapidly growing, globally distributed platform and, as such, you will have an incredible amount of impact on the current state and future direction of our product, with visibility throughout the organization and a significant opportunity to take ownership
+
+Some of Our Current Projects
+Join our Mulesoft teams to help the world leading execution engine that powers thousands of Integrations and APIs worldwide of most important companies on their mission critical applications.",4.4,"Salesforce
+4.4",Buenos Aires,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Senior Data Engineer (AWS) - DevOps,-1,"Rappi is the game changer startup for last mile delivery in Latam. With more than 100K orders daily, we are making easy our customers lives by offering all the services available in their cities and delivering it in less than 30 minutes.
+
+We are looking for a Senior Data Engineer who will be responsible for building, improving and maintaining a scalable data pipeline infrastructure required for extraction, transformation, and loading of terabytes of data from thousands of sources to our analytics platform.
+
+You will have the opportunity to apply cutting-edge technologies in large scale environment with a challenging rapid growth pace, taking ownership of both internal and external services, and applying all your skills to make an impact on the whole company.
+
+You will be working with a skilled group of international tech specialists, on a high pressure hard-work environment.",3.6,"Rappi
+3.6",Buenos Aires,-1,1001 to 5000 Employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+Software Engineer,-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+MuleSoft, a Salesforce Company sits at the heart of all convergent technologies trends (SaaS, big data, APIs, microservices, etc.), and our developers are tackling some of the most challenging problems in technology today.
+As a Software Engineer at MuleSoft, a Salesforce Company, you will work on a small SCRUM team to drive the development of modular, composable, and/or maintainable microservices to expose the functionality of the Anypoint Platform to customers and allow us to scale platform usage around the world. Our teams own mission-critical aspects of a rapidly growing, globally distributed platform and, as such, you will have an incredible amount of impact on the current state and future direction of our product, with visibility throughout the organization and a significant opportunity to take ownership.",4.4,"MuleSoft
+4.4",Buenos Aires,-1,1001 to 5000 Employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1
+Support Engineer,-1,"About the vacancy
+
+
+We are searching for a support engineer for a modern, cloud-based, laboratory information system. The solution supports the following functionality:
+
+• Laboratory customization
+
+— Instrument, Billing, & EMR Integrations
+
+— Requisition and Questionnaire Forms
+
+— Report Templates
+
+— Barcode Label Design and Printing
+
+— Data Entry Screens
+
+• Portals for access for client, patient, physician, a pharmacist with a centralized dashboard
+
+• Business tools, such as patient test scheduling, sample management, result delivery, and reporting, quality control
+
+• Client Resource Management
+
+Support Engineer will help users of the solution to resolve issues and address them to the development team. The majority of the users are based in Pacific Time, so time adjusting is required.",4.9,"DataArt
+4.9",Buenos Aires,-1,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1
+Java Backend Software Engineer (Senior & Lead),-1,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+Senior Software Engineer (Java)
+Join our Mulesoft teams to help build the world’s first-class execution engine that powers thousands of Integrations and APIs worldwide of most important companies on their mission critical applications.
+Project summary
+We hold 2 important projects at this time:
+1) Anypoint Runtime Management is the result of the combination of several key components of the AnyPoint platform that, together, work for the purpose of managing any Runtime Engine (Mule Core product) and the Mule application that runs on The cloud or on-premises. Its capabilities are broad and include the entire DevOps life cycle, such as application deployment, server and cluster configuration, flow monitoring, configuration of Kubernetes clusters and much more. ARM is currently undergoing an abstraction and extension of its scope to be able to fully support multiple use-case scenarios working towards the goal of centralizing all of the management features of any component of the Anypoint Platform through it.",4.4,"Salesforce
+4.4",Buenos Aires,-1,10000+ Employees,1999,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Technical Consulting Engineer,-1,"Why you'll love Cisco
+
+
+We change the World, you will become passionate about your employer and the brand you represent. Everything is converging on the Internet, making networked connections more meaningful than ever before in our lives. Our employees' groundbreaking ideas impact everything. Here, that means we take creative ideas from the drawing board to dynamic solutions that have real world impact. You'll collaborate with Cisco leaders, partner with mentors, and develop incredible relationships with colleagues who share your interest in connecting the unconnected. You'll be part a team that cares about its customers, enjoys having fun, and you'll take part in changing the lives of those in our local communities. Come prepared to be encouraged and inspired.
+
+
+
+At Cisco, each person brings their unique talents to work as a team and make a difference.
+
+Yes, our technology changes the way the world works, lives, plays and learns, but our edge comes from our people.
+Colourful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Be you, with us! #WeAreCisco
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.",4.2,"Cisco Systems
+4.2",Buenos Aires,-1,10000+ Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+Network Engineer,-1,"About the vacancy
+
+
+Our client is a New York-based commercial media company with representative offices around the world that provides access to offers from more than 2000 travel and entertainment enterprises. It also provides reviews of the offered options, a selection with low prices, the ability to confirm the actual cost, a selection of offers based on the user’s geo-position, and other parameters. Its service is used by more than 28 million people in North America, Europe, and the Asia-Pacific region.
+
+We are looking for a Network Engineer. The goal is to support the project with hands-on experience for the network and cloud-based services. The key tasks will be:
+
+— Assisting with the WAN design for Branch offices
+
+— Migrating services from the data center to Azure infrastructure
+
+Note that we hire specialists not to the project, but to one of DataArt’s companies. If the project is over, or you become uncomfortable in it, you can discuss a transition to another project.",4.9,"Cisco Systems
+4.2",Buenos Aires,-1,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1
+Software Engineer,-1,"ProfitWell is the leader in subscription monetization and retention. We help companies, from scrappy startups to brand-name enterprises, get the most out of their subscription offerings.
+
+
+It's not just about pushing code. It's about pushing high-quality code that sets the product apart and defines the ethos of the experience of the product. You'd rather take an extra 30 minutes to work out a better process than simply wait for all of the bugs to appear. Of course, there are times bugs teach you an even better way of solving the problem and the way forward is simply relentless execution. No problem shouldn't be considered and your teammates enjoy working through them with you. It's not personal, it's all about creating the very best product possible.
+
+If this is you, come join the team at ProfitWell as an Engineer where you'll have a chance to get your hands dirty and learn from others who share your passion for building amazing products. For the past seven years, ProfitWell has been helping companies make more money and learn more about their customers through pricing and value monitoring. We do that by collecting, reviewing, and communicating not just data, but actionable insights. We believe that taking a bunch of data and translating it into a bunch of graphs doesn’t really solve the problem. We also believe that focus on one industry helps us win in helping customers and growing our business. We want to solve for these failings of the Business Intelligence industry, empowering everyone to get the most out of subscription.",3.9,"ProfitWell
+3.9",Rosario,-1,51 to 200 Employees,2012,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),-1
+Senior Back-End Engineer,-1,"About Netskope
+
+
+Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Netskope to redefine Cloud, Network and Data Security.
+Since 2012, we have built the market-leading cloud security company and an award-winning culture powered by hundreds of employees spread across offices in Santa Clara, San Francisco, Seattle, Bangalore, London, Melbourne, and Tokyo. Our core values are openness, honesty, and transparency, and we purposely developed our open desk layouts and large meeting spaces to support and promote partnerships, collaboration, and teamwork. From catered lunches and office celebrations to employee recognition events and social professional groups such as the Awesome Women of Netskope (AWON), we strive to keep work fun, supportive and interactive.Visit us at Netskope Careers and follow us on Twitter @Netskope and Facebook.
+
+
+We are looking for a Senior Software Engineer to join the Netskope Next Gen SWG team. In this role you will help to architect, design and implement our cloud-based web security solution that prevents malware, detects advanced threats, filters traffic, protects data, controls app use for any user, location or device.
+
+
+
+#LI-NN1",4.2,"Netskope
+4.2",Buenos Aires,-1,1001 to 5000 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,-1,"Busqueda: Data Scientist
+Por intermedio de LATAM5411, importante empresa de marketing y publicidad digital ubicada en la zona de Palermo, se encuentra en la búsqueda de un Data Scientist.
+Responsabilidades:
+Analizar datos no estructurados
+Diseñar un modelo de datos.
+Coordinar con diferentes equipos funcionales
+Interactuar con distintos stakeholders para poder entender la data a analizar, así como aprovechar los datos de la empresa para encontrar soluciones.",4.4,"LATAM5411
+4.4",Argentina,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1

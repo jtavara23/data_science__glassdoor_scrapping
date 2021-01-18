@@ -11,6 +11,7 @@ import pandas as pd
 #path = "C:/Users/Ken/Documents/ds_salary_proj/chromedriver"
 path = "F:/ds_salary_project/chromedriver"
 
-df = gs.get_jobs('data engineer',500, False, path, 12)
+jobs = gs.get_jobs('data engineer',100, False, path, 15)
+df = pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
+df.to_csv('glassdoor_jobs5.csv', index = False)
 
-df.to_csv('glassdoor_jobs.csv', index = False)
