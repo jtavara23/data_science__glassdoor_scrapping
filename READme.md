@@ -51,9 +51,14 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![alt text](Rating_by_Job_Position_&_Seniority.jpg "Rating by Job Position & Seniority")
-![alt text](Rating_by_Job_Position.jpg "Rating by Job Position")
-![alt text](correlation.jpg "Correlations")
+* Rating by Job Position & Seniority: 
+* ![alt text](Rating_by_Job_Position_&_Seniority.jpg "Rating by Job Position & Seniority")
+* Rating by Job Position:
+* ![alt text](Rating_by_Job_Position.jpg "Rating by Job Position")
+* Correlations
+*  ![alt text](correlation.jpg "Correlations")
+* Rating by Job Position:
+* ![alt text](wordcloud.svg "Job Description Important Words")
 
 ## Model Building 
 
